@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link  rel="website icon" href="https://www.paris2024.org/favicon-192x192.png"/>
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="style.css">
+<script src="recherche_pays.js"></script>
+<title>JO projet</title>
+</head>
+<body>
+  <!--base-logo-->
+  <div class="container">
+    <div class="top">
+        <div id="animatedElement" class="blue circle delay-1"></div>
+        <div id="animatedElement" class="black circle delay-2"></div>
+        <div id="animatedElement" class="red circle delay-3"></div>
+    </div>
+    <div class="bottom">
+        <div id="animatedElement" class="yellow circle bounce-in-top delay-4"></div>
+        <div id="animatedElement" class="green circle bounce-in-top delay-5"></div>
+    </div>
+</div>
+
+<!--Nav bar-->
+<nav>
+<div class="navbar">
+  <a href="#">List Athletes A - Z</a>
+</div>
+
+</nav>
+<!-- Recherche de pays -->
+<h1>ATHLÈTES</h1>
+<main>
+<div class="wrap">
+  <div class="search">
+    <input type="text" id="pays" class="searchTerm zone_texte" placeholder="Rechercher...">
+    <button class="button" onclick="chargement()"><i class='bx bx-search'></i></button>
+  </div>
+</div>
+<div class="div_liste_pays">
+<ul id="listePays">
+  <!--Europe-->
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('France')">France</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Allemagne')">Allemagne</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Arménie')">Arménie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Autriche')">Autriche</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Azerbaidjan')">Azerbaidjan</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Belgique')">Belgique</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Bosnie-Herzégovine')">Bosnie-Herzégovine</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Bulgarie')">Bulgarie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Croatie')">Croatie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Danemark')">Danemark</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Espagne')">Espagne</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Estonie')">Estonie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Finland')">Finland</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Géorgie')">Géorgie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Grande-Bretagne')">Grande-Bretagne (Royaume-Uni)</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Grèce')">Grèce</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Hongrie')">Hongrie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Irlande')">Irlande</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Italie')">Italie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Lituanie')">Lituanie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Moldavie')">Moldavie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Norvège')">Norvège</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Pays-Bas')">Pays-Bas</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Pologne')">Pologne</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Portugale')">Portugale</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Roumanie')">Roumanie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Serbie')">Serbie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Slovaquie')">Slovaquie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Slovénie')">Slovénie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Suède')">Suède</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Suisse')">Suisse</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Tchéquie')">Tchéquie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Turquie')">Turquie</a></li>
+  <li data-continent="Europe"><a href="#" onclick="afficherAthletes('Ukraine')">Ukraine</a></li>
+
+  <!--Amérique-->
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('État-Unis')">État-Unis</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Argentine')">Argentine</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Bolivie')">Bolivie</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Brésile')">Brésile</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Canada')">Canada</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Colombie')">Colombie</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Costa Rica')">Costa Rica</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Cuba')">Cuba</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Équateur')">Équateur</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Guatemala')">Guatemala</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Jamaique')">Jamaique</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Mexique')">Mexique</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Pérou')">Pérou</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Porto Rico')">Porto Rico</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('République dominicaine')">République dominicaine</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Suriname')">Suriname</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Trinité-et-Tobago')">Trinité-et-Tobago</a></li>
+  <li data-continent="USA"><a href="#" onclick="afficherAthletes('Uruguay')">Uruguay</a></li>
+
+  <!--Océanie-->
+  <li data-continent="Océanie"><a href="#" onclick="afficherAthletes('Australie')">Australie</a></li>
+  <li data-continent="Océanie"><a href="#" onclick="afficherAthletes('Fidji')">Fidji</a></li>
+  <li data-continent="Océanie"><a href="#" onclick="afficherAthletes('Nouvelle-Zélande')">Nouvelle-Zélande</a></li>
+
+  <!--Afrique-->
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Afrique du Sud')">Afrique du Sud</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Algérie')">Algérie</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Burkina Faso')">Burkina Faso</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Cameroun')">Cameroun</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Djibouti')">Djibouti</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Égypte')">Égypte</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Érythrée')">Érythrée</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Éthiopie')">Éthiopie</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Gambie')">Gambie</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Kenya')">Kenya</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Maroc')">Maroc</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Nigeria')">Nigeria</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Ouganda')">Ouganda</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Sénégale')">Sénégale</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Tanzanie')">Tanzanie</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Tunisie')">Tunisie</a></li>
+  <li data-continent="Afrique"><a href="#" onclick="afficherAthletes('Zimbabwe')">Zimbabwe</a></li>
+
+  <!--Asie-->
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Arabie Saoudite')">Arabie Saoudite</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Bahrein')">Bahrein</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Chine')">Chine</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Corée du Sud')">Corée du Sud</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Émirat arabes Unis')">Émirat arabes Unis</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Inde')">Inde</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Iran')">Iran</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Israel')">Israel</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Japon')">Japon</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Kazakhstan')">Kazakhstan</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Libam')">Libam</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Pakistan')">Pakistan</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Philipines')">Philipines</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Qatar')">Qatar</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Singapour')">Singapour</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Viet Nam')">Viet Nam</a></li>
+  <li data-continent="Asie"><a href="#" onclick="afficherAthletes('Taipei Chinois')">Taipei Chinois</a></li>
+</ul>  
+</div>
+</main>
+<!-- Pop-up-->
+<div id="athletes" class="athletes-list flicker-in-1"></div>
+<div></div>
+<div id="popup" class="popup">
+  <span id="popupClose" onclick="fermerPopup()">X</span>
+  <h2 id="popupTitle"></h2>
+  <p id="popupBio"></p>
+</div> 
+</body>
+</html>
