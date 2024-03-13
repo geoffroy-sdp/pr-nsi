@@ -1,3 +1,4 @@
+https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini?hl=fr
 var athletes = {
     // Europe
     "France": ["Renaud Lavillenie", "Danis Civil","Teddy Riner"],
