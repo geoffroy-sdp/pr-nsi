@@ -160,7 +160,11 @@ var athletes = {
         "Erika Kirpu" : "",
         "Katrina Lehis" : "",
   
-  
+
+
+POST https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/{REGION}/publishers/google/models/gemini-1.0-pro:streamGenerateContent
+
+    
               //océanie
   
   
