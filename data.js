@@ -157,13 +157,81 @@ var athletes = {
   
         //Estonie
   
-        "Julia Beljajeva" : "",
-        "Erika Kirpu" : "",
-        "Katrina Lehis" : "",
+        "Julia Beljajeva" : "Julia Beljajeva, née le 21 juillet 1992 à Tartu en Estonie, est une escrimeuse spécialiste de l'épée. Double championne d'Europe par équipes (2013 et 2014), championne du monde par équipes en 2017 et championne du monde individuelle en 2013, elle est également médaillée d'or olympique par équipes aux Jeux de Tokyo en 2021.",
+        "Erika Kirpu" : "Erika Kirpu, née le 22 juin 1992 à Tartu en Estonie, est une escrimeuse spécialiste de l'épée. Elle est double championne d'Europe par équipes (2013 et 2018) et championne du monde par équipes en 2017. Consacrée championne olympique par équipes aux Jeux de Tokyo en 2021, elle est également médaillée d'argent mondiale en individuel en 2019.",
+        "Katrina Lehis" : "Katrina Lehis est une escrimeuse estonienne née le 19 décembre 1994 à Haapsalu. Spécialiste de l'épée, elle est championne olympique par équipes en 2020 et médaillée de bronze individuelle la même année. Son palmarès compte également un titre de championne d'Europe individuel en 2018 et deux médailles d'argent aux championnats du monde par équipes (2017 et 2019).",
   
+        //Finlande
 
+        "Viivi Lehikoinen" : "Viivi Lehikoinen, née le 27 août 1999 à Helsinki, est une athlète finlandaise spécialiste du 400 mètres haies. Elle détient les records nationaux du 300 mètres haies et du 400 mètres haies. Son palmarès inclut une médaille d'or aux Championnats d'Europe d'athlétisme espoirs 2017, une médaille de bronze aux Championnats d'Europe d'athlétisme par équipes 2019 et une place de finaliste aux Jeux olympiques d'été de 2020.",
+        "Satu Mäkelä-Nummela" : "Satu Mäkelä-Nummela est une tireuse sportive finlandaise née le 26 octobre 1970 à Orimattila. Elle est spécialiste du trap et a remporté la médaille d'or aux Jeux olympiques d'été de 2008 à Pékin. Elle est également double médaillée de bronze aux Championnats du monde de tir ISSF, en 1995 et 2009." ,
+        "Mira Potkonen" : "Mira Potkonen, née le 17 novembre 1980, est une boxeuse finlandaise. Elle est médaillée de bronze aux Jeux olympiques de 2016 et 2020 dans la catégorie des poids légers. Son palmarès compte également deux titres de championne d'Europe (2016 et 2018) et une médaille d'argent aux championnats du monde (2016).",
 
-POST https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/{REGION}/publishers/google/models/gemini-1.0-pro:streamGenerateContent
+        //Géorgie
+        "Vazha Margvelashvili" : "Né le 3 octobre 1993 à Gori en Géorgie, Vazha Margvelashvili est un judoka évoluant dans la catégorie des moins de 66 kg. Son palmarès est impressionnant : il a notamment remporté la médaille d'or aux Championnats d'Europe 2016, l'argent aux Jeux olympiques de 2020 et plusieurs médailles aux Championnats du monde et aux Masters. Il est considéré comme l'un des meilleurs judokas de sa génération.",
+        "Lasha Bekauri" : "Né le 26 juillet 2000, Lasha Bekauri est un judoka géorgien évoluant dans la catégorie des -90kg. Champion olympique en 2020 à Tokyo, il a également remporté l'or aux Championnats d'Europe en 2021 et aux Championnats du monde en 2023. Bekauri est l'un des judokas les plus dominants de sa génération.",
+        "Lasha Talakhadze" : "Lasha Talakhadze, né le 2 octobre 1993, est un haltérophile géorgien évoluant dans la catégorie des +109 kg. Il est double champion olympique (2016 & 2020) et détient tous les records du monde en vigueur (arraché, épaulé-jeté et total). Son palmarès exceptionnel fait de lui l'un des plus grands haltérophiles de tous les temps.",
+
+        //UK 
+        "Hannah Mills" : "Hannah Mills, née le 29 février 1988 à Cardiff, est une skipper britannique. Double championne olympique en 470 (2016 et 2020), elle est également championne du monde en 2012 et vice-championne du monde en 2011.  Elle est considérée comme l'une des meilleures navigatrices de l'histoire de son pays.",
+        "Keely Hodgkinson" : "Keely Hodgkinson, née le 3 mars 2002 à Wigan, est une athlète britannique spécialiste du demi-fond. Vice-championne olympique du 800m en 2021, elle est également championne d'Europe en 2022 et double championne d'Europe en salle en 2021 et 2023. Son palmarès impressionnant fait d'elle l'une des étoiles montantes de l'athlétisme mondial.",
+        "Lauren Price" : "Née en 1994 au Pays de Galles, Lauren Price est une boxeuse poids moyen et super-lourds. Championne olympique à Tokyo en 2020, elle est également championne du monde amateur 2019 et championne d'Europe 2018 et 2019. Son palmarès exceptionnel fait d'elle l'une des boxeuses les plus décorées de l'histoire.",
+
+        //Grèce
+        "Elefthérios Petroúnias" : "Elefthérios Petroúnias, gymnaste grec né en 1990 à Athènes, est spécialiste des anneaux. Double champion olympique (2016 & 2020) et triple champion d'Europe (2015, 2017 & 2019), il est considéré comme l'un des meilleurs gymnastes de l'histoire de sa discipline.",
+        "Rafaéla Spanoudáki-Chatziríga" : "Née le 7 juin 1994 à Rhodes, Rafaéla Spanoudáki-Chatziríga est une sprinteuse grecque. Spécialiste du 200m, elle a remporté le titre de championne d'Europe en 2021 à Munich avec un temps de 22"82, établissant un nouveau record national. Elle a également participé aux Jeux olympiques de Tokyo en 2021, où elle a atteint les demi-finales.",
+        "Antigóni Drisbióti" : "Antigóni Drisbióti, née le 21 mars 1984 à Kardítsa en Grèce, est une athlète spécialiste de la marche. Double championne d'Europe du 20 km et du 35 km à Munich en 2022, elle compte également à son palmarès une médaille de bronze aux Jeux méditerranéens de 2013 et une place de finaliste (8e) aux Jeux olympiques de Tokyo en 2021.",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+      
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+ POST https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/{REGION}/publishers/google/models/gemini-1.0-pro:streamGenerateContent
 
     
               //océanie
