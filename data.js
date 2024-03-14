@@ -182,55 +182,91 @@ var athletes = {
         "Rafaéla Spanoudáki-Chatziríga" : "Née le 7 juin 1994 à Rhodes, Rafaéla Spanoudáki-Chatziríga est une sprinteuse grecque. Spécialiste du 200m, elle a remporté le titre de championne d'Europe en 2021 à Munich avec un temps de 22"82, établissant un nouveau record national. Elle a également participé aux Jeux olympiques de Tokyo en 2021, où elle a atteint les demi-finales.",
         "Antigóni Drisbióti" : "Antigóni Drisbióti, née le 21 mars 1984 à Kardítsa en Grèce, est une athlète spécialiste de la marche. Double championne d'Europe du 20 km et du 35 km à Munich en 2022, elle compte également à son palmarès une médaille de bronze aux Jeux méditerranéens de 2013 et une place de finaliste (8e) aux Jeux olympiques de Tokyo en 2021.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Hongrie
+        "Dóra Bodonyi" : "Dóra Bodonyi, kayakiste hongroise née en 1993, est une spécialiste du sprint. Triple championne du monde en K1 et K4, elle a également remporté l'or européen à six reprises et décroché la médaille de bronze aux Jeux olympiques de Tokyo en 2021 sur le K2 500m.  Considérée comme l'une des meilleures kayakistes de sa génération, elle vise une nouvelle médaille olympique à Paris en 2024.",
+        "Sarolta Kovács" : "Née en 1991 à Tapolca en Hongrie, Sarolta Kovács est une pentathlète moderne de talent. Championne du monde individuelle et par équipe, elle a également remporté la médaille de bronze aux Jeux olympiques de Tokyo 2020. Son palmarès inclut des titres de championne d'Europe et de nombreuses victoires en Coupe du Monde.",
+        "Áron Szilágyi" : "Áron Szilágyi, né le 14 janvier 1990 à Budapest, est un escrimeur hongrois pratiquant le sabre. Triple champion olympique consécutif (2012, 2016, 2020), champion du monde (2022) et champion d'Europe (2015), il est considéré comme l'un des meilleurs sabreurs de tous les temps. Son palmarès exceptionnel en fait une légende de son sport.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Irlande
+        "Paul O'Donovan" : "Paul O'Donovan, né le 19 avril 1994 à Skibbereen en Irlande, est un rameur poids léger. Il est champion olympique en titre du deux de couple poids légers avec Fintan McCarthy et a remporté cinq titres de champion du monde dans la même discipline. Son palmarès exceptionnel fait de lui l'un des rameurs les plus décorés de l'histoire de son pays.",
+        "Ciara Mageean" : "Ciara Mageean, née le 12 mars 1992 à Portaferry en Irlande du Nord, est une athlète spécialiste du demi-fond. Médaillée de bronze aux Championnats d'Europe 2016 et d'argent en 2022, elle a également remporté l'argent aux Jeux du Commonwealth 2022. Son palmarès compte aussi plusieurs titres nationaux et des records d'Irlande sur 1500m et le mile.",
+        "Sarah Lavin" : "Sarah Lavin est une athlète irlandaise née le 28 mai 1994 à Lisnagry, spécialiste du 100 mètres haies. Détentrice du record national irlandais sur la distance (12''62), elle a notamment remporté une médaille d'argent aux Championnats d'Europe juniors en 2013 et a participé aux Jeux olympiques de Tokyo en 2021. En 2023, elle a réalisé un nouveau record national sur 100 mètres plat (11''27).",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Italie
+        "Valentina Rodini" : "Née en 1995 à Crémone, Valentina Rodini est une rameuse italienne. Sacrée championne olympique en deux de couple poids légers avec Federica Cesarini aux Jeux de Tokyo 2020, elle compte également à son palmarès une médaille d'argent aux Championnats d'Europe 2018 et une médaille de bronze aux Championnats du monde 2019.",
+        "Eseosa Desalu" : "Eseosa Desalu, né le 19 février 1994 à Casalmaggiore en Italie, est un athlète italien spécialiste du 200 mètres et du relais. Il a remporté la médaille d'or du relais 4 x 100 mètres aux Jeux olympiques de Tokyo en 2021, ainsi que la médaille d'argent du 200 mètres aux Jeux méditerranéens de 2018. Son palmarès comprend également plusieurs titres nationaux en individuel et en relais.",
+        "Alice Volpi" : "Née le 15 avril 1992 à Sienne, Alice Volpi est une escrimeuse italienne pratiquant le fleuret. Championne du monde en 2018 et médaillée de bronze par équipes aux Jeux olympiques de 2020, elle compte également à son palmarès deux titres de championne d'Europe par équipes (2015 et 2019) et une médaille d'argent aux Championnats du monde 2017.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Lituanie
+        "Andrius Gudžius" : "Andrius Gudžius est un lanceur de disque lituanien né le 14 février 1991. Il est champion du monde en 2017 et champion d'Europe en 2018. Son record personnel est de 69,59 m, réalisé en 2019.",
+        "Airinė Palšytė" : "Airinė Palšytė, née le 13 juillet 1992 à Vilnius, est une athlète lituanienne spécialiste du saut en hauteur.  Palšytė a remporté la médaille d'or aux Championnats d'Europe en salle 2017 et la médaille d'argent aux Championnats d'Europe 2016.  Elle a également participé aux Jeux olympiques de 2012, 2016 et 2020.",
+        "Laura Asadauskaitė-Zadneprovskienė" : "Laura Asadauskaitė-Zadneprovskienė est une pentathlonienne lituanienne née le 29 février 1984 à Vilnius. Championne olympique à Londres en 2012 et vice-championne à Rio en 2016, elle est également double championne du monde (2007 et 2013) et triple championne d'Europe (2009, 2010 et 2012).  Elle est l'une des athlètes les plus décorées de l'histoire de son pays.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Moldavie
+        "Serghei Tarnovschi" : "Serghei Tarnovschi, né le 24 juin 1997 à Lviv en Ukraine, est un céiste moldave naturalisé ukrainien en 2018. Spécialiste du C1 (canoë monoplace), il a remporté une médaille de bronze aux Jeux olympiques de 2020 à Tokyo sur 1000m après avoir été disqualifié pour dopage en 2016 suite à sa 3ème place à Rio. Son palmarès compte également deux titres de champion d'Europe en 2021 et 2022 sur la même distance.",
+        "Dimitriana Surdu" : "Dimitriana Surdu, née le 12 avril 1994 à Chișinău, est une athlète moldave spécialiste du lancer du poids. Elle a participé aux Jeux olympiques d'été de 2016 à Rio de Janeiro, où elle s'est classée 13e en qualifications. Son palmarès comprend également une médaille d'or aux Jeux olympiques de la jeunesse de 2010, une médaille d'argent aux Championnats d'Europe d'athlétisme espoirs 2013 et une médaille de bronze aux Championnats d'Europe d'athlétisme par équipes 2014.",
+        "Anastasia Nichita" : "Née le 19 février 1999, Anastasia Nichita est une lutteuse libre moldave. Championne du monde en 2022 et triple championne d'Europe (2018, 2019, 2020), elle compte également à son palmarès une médaille de bronze aux Championnats d'Europe 2021.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Norvège
+        "Eivind Henriksen" : "Eivind Henriksen, né le 14 septembre 1990 à Oslo, est un athlète norvégien spécialiste du lancer de marteau. Vice-champion olympique en 2021 à Tokyo et médaillé de bronze mondial en 2022 à Eugene, il a également remporté la médaille de bronze aux Championnats d'Europe 2018 à Berlin. Il compte à son palmarès 17 médailles aux Championnats de Norvège, dont 13 titres consécutifs entre 2009 et 2021.",
+        "Vilde Johansen" : "Née le 25 juillet 1994 à Tønsberg, Vilde Johansen est une handballeuse norvégienne évoluant au poste de pivot. Internationale depuis 2015, elle compte 93 sélections et 163 buts avec la Norvège. Son palmarès est riche de plusieurs titres dont une médaille de bronze aux Jeux olympiques de Tokyo en 2020, deux titres de championne d'Europe en 2016 et 2020, et une médaille d'argent au championnat du monde en 2017. En club, elle a notamment remporté la Ligue des champions avec Vipers Kristiansand en 2021.",
+        "Karoline Bjerkeli Grøvdal" : "Karoline Bjerkeli Grøvdal, née le 14 juin 1990 à Ålesund en Norvège, est une athlète spécialiste des courses de fond. Elle a remporté deux médailles de bronze aux Championnats d'Europe, une sur 3 000 mètres steeplechase en 2018 et l'autre sur 10 000 mètres en 2016. En 2021 et 2022, elle a réalisé un doublé en s'imposant aux Championnats d'Europe de cross-country.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Pays bas
+        "Ymkje Clevering" : "Ymkje Clevering, née le 17 juillet 1995 à Haulerwijk, est une rameuse néerlandaise. Championne d'Europe en quatre de pointe en 2019, elle a également remporté la médaille d'argent aux Jeux olympiques de Tokyo 2020 dans la même discipline. Son palmarès inclut aussi une médaille d'argent aux Championnats du monde 2019 et une médaille de bronze aux Championnats d'Europe 2022 en deux de pointe.",
+        "Sharon van Rouwendaal" : "Née le 9 septembre 1993 à Baarn, Sharon van Rouwendaal est une nageuse néerlandaise spécialiste du dos et de l'eau libre. Sacrée championne olympique du 10 km en eau libre à Rio en 2016 et Tokyo en 2020, elle cumule également 7 titres de championne d'Europe sur 5 km, 10 km et l'épreuve par équipe entre 2014 et 2022.",
+        "Anouk Vetter" : "Née en 1993 à Amsterdam, Anouk Vetter est une athlète néerlandaise spécialiste des épreuves combinées. Elle a remporté la médaille d'argent de l'heptathlon aux Jeux olympiques de Tokyo en 2020 et aux Championnats du monde d'athlétisme en 2022. Elle est également championne d'Europe de l'heptathlon en 2016 et détient le record des Pays-Bas avec un score de 6 867 points.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Pologne
+        "Maria Andrejczyk" : "Née le 9 mars 1996 à Suwałki, Maria Andrejczyk est une athlète polonaise spécialiste du lancer du javelot. Vice-championne olympique à Tokyo en 2021 avec un jet à 71,40m (record national), elle est également championne d'Europe espoirs en 2015 et médaillée de bronze aux Championnats d'Europe 2018.",
+        "Justyna Święty-Ersetic" : "Justyna Święty-Ersetic, née le 3 décembre 1992 à Racibórz, est une athlète polonaise spécialiste du 400 mètres. Elle est double championne d'Europe en 2018 (individuel et en relais 4 x 400 m), et médaillée d'argent aux Jeux olympiques de Tokyo 2020 en relais 4 x 400 m mixte et féminin. Son palmarès complet est impressionnant, avec de nombreux titres et podiums nationaux et internationaux.",
+        "Natalia Kaczmarek" : "Née le 17 janvier 1998 à Drezdenko, Natalia Kaczmarek est une athlète polonaise spécialiste du 400 mètres. Championne olympique du relais 4 x 400 m mixte à Tokyo en 2021 et vice-championne du monde du 400 m à Budapest en 2023, elle compte également à son palmarès une médaille de bronze du 4 x 400 m aux Championnats d'Europe en salle 2021 et deux titres de championne d'Europe par équipes (2021).",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Portugal
+        "Pedro Pichardo" : "Pedro Pichardo, né le 30 juin 1993 à Santiago de Cuba, est un athlète spécialiste du triple saut. Naturalisé portugais en 2017, il est champion olympique à Tokyo en 2021, champion du monde à Eugene en 2022 et champion d'Europe à Munich en 2022. Son record personnel est de 18,08 m, réalisé à Doha en 2015, ce qui le place au 4e rang des performeurs de tous les temps.",
+        "Patrícia Mamona" : "Née en 1988 à Lisbonne, Patrícia Mamona est une athlète portugaise spécialiste du triple saut. Détenant le record national avec 15,01m, elle s'est illustrée en remportant la médaille d'argent aux Jeux olympiques de Tokyo 2020, devenant ainsi la première athlète portugaise médaillée dans cette épreuve. Son palmarès riche comprend également un titre de championne d'Europe en salle en 2021 et plusieurs podiums en compétitions internationales.",
+        "Fernando Pimenta" : "Né en 1989, Fernando Pimenta est un kayakiste portugais spécialiste de la course en ligne. Il est l'un des athlètes les plus décorés de son pays avec un palmarès exceptionnel : 3 médailles olympiques (dont 1 en or), 15 médailles aux Championnats du Monde et 27 médailles aux Championnats d'Europe. Véritable légende de son sport, il continue d'inspirer la nouvelle génération de kayakistes portugais.",
       
+        //Roumanie
+        "Simona Radiș" : "Née le 5 avril 1999, Simona Radiș est une rameuse roumaine spécialiste du deux de couple. Sacrée championne olympique en 2020 avec Ancuța Bodnar, elle a également remporté deux titres de championne d'Europe (2022) et deux médailles d'argent aux Championnats du monde (2019 et 2022).",
+        "Ana Maria Popescu" : "Ana Maria Popescu est une escrimeuse roumaine née le 26 novembre 1984 à Bucarest. Spécialiste de l'épée, elle est l'une des escrimeuses les plus décorées de son pays avec un palmarès riche de deux médailles d'argent aux Jeux Olympiques (2008 et 2020), un titre de championne olympique par équipes en 2016, quatre titres de championne d'Europe par équipes et un titre de championne d'Europe individuel en 2013.",
+        "Andrea Miklós" : "Née le 17 avril 1999 à Cluj-Napoca en Roumanie, Andrea Miklós est une athlète spécialisée dans le 400 mètres. Championne d'Europe junior du 400 mètres en 2017, elle a également remporté la médaille de bronze du relais 4 × 400 mètres aux Championnats du monde en salle 2016. Miklós a participé aux Jeux olympiques de 2016 et de 2020, atteignant les demi-finales du 400 mètres à chaque fois. Son record personnel est de 50"31, établi en 2021.",
+  
+        //serbie
+        "Jovana Preković" : "Jovana Preković, née le 20 janvier 1996 à Aranđelovac en Serbie, est une karatéka serbe concourant dans la catégorie kumité -61 kg. Double championne du monde en 2018 et 2021, elle est également championne olympique en 2020, lors de la première apparition du karaté aux Jeux olympiques. Son palmarès exceptionnel fait d'elle l'une des karatékas les plus accomplies de sa génération.",
+        "Milica Mandić" : "Milica Mandić, née le 6 décembre 1991 à Belgrade, est une taekwondoïste serbe. Double championne olympique (+67kg) à Londres 2012 et Tokyo 2020, elle est également championne du monde (+67kg) en 2017. Palmarès exceptionnel pour cette athlète d'exception.",
+        "Gojko Pijetlović" : "Gojko Pijetlović, né le 7 août 1983 à Novi Sad, est un joueur de water-polo serbe évoluant au poste de gardien de but. Il est triple champion olympique (2012, 2016 et 2020), champion du monde (2009 et 2015) et champion d'Europe (2014 et 2016). Considéré comme l'un des meilleurs gardiens de but de l'histoire, il a remporté de nombreux autres titres et distinctions individuelles au cours de sa carrière.",
+  
         //
         "" : "",
         "" : "",
         "" : "",
+   
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+ 
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //
+        "" : "",
+        "" : "",
+        "" : "",
+
 
     
               //océanie
