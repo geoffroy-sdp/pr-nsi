@@ -63,18 +63,18 @@ var athletes = {
     // Amérique
     "État-Unis": ["Michael Phelps", "Simone Biles", ""],
     "Argentine": ["Santiago Lange", "Paula Pareto", "Lionel Messi"],
-    "Bolivie": ["", ""],
-    "Brésile": ["", ""],
-    "Canada": ["", ""],
-    "Colombie": ["", ""],
-    "Costa Rica": ["", ""],
-    "Cuba": ["", ""],
-    "Équateur": ["", ""],
-    "Guatemala": ["", ""],
-    "Jamaique": ["", ""],
-    "Mexique": ["", ""],
-    "Pérou": ["", ""],
-    "Porto Rico": ["", ""],
+    "Bolivie": ["Karen Torrez", "Hugo Dellien", "Jhonathan Cahuana"],
+    "Brésile": ["Neymar Jr", "Alison dos Santos", "Beatriz Haddad Maia"],
+    "Canada": ["Alphonso Davies", "Penny Oleksiak", "Andre De Grasse"],
+    "Colombie": ["Egan Bernal", "Mariana Pajón", "Yuberjen Martínez"],
+    "Costa Rica": ["Andrea Vargas", "Kenneth Tencio", "Andrey Amador"],
+    "Cuba": ["Mijaín López", "Yarisley Silva", "Roniel Iglesias"],
+    "Équateur": [" Neisi Dajomes", "Richard Carapute", "Alfredo Borrero"],
+    "Guatemala": ["Mirna Ortiz", "Juan Ignacio Maegli", "Kevin Cordón"],
+    "Jamaique": ["Elaine Thompson-Herah", "Shelly-Ann Fraser-Pryce", "Yohan Blake"],
+    "Mexique": ["Alejandra Valencia", "Aremi Fuentes", "Daniel Corral"],
+    "Pérou": ["Kimberly García", "Gladys Tejeda", "Diego Elías"],
+    "Porto Rico": ["Jasmine Camacho-Quinn", "María Pérez", "Adrián Díaz"],
     "République dominicaine": ["", ""],
     "Suriname": ["", ""],
     "Trinité-et-Tobago": ["", ""],
@@ -231,7 +231,6 @@ var athletes = {
         "" : "",
         "" : "",
         "" : "",
- POST https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/{REGION}/publishers/google/models/gemini-1.0-pro:streamGenerateContent
 
     
               //océanie
@@ -258,15 +257,117 @@ var athletes = {
               //amérique
   
         //État-Unis
+        
         "Caeleb Dressel": "Caeleb Dressel est Né le 16 août 1996, Caeleb Dressel est un nageur américain spécialiste des épreuves de sprint. Déjà septuple champion olympique à Tokyo en 2020, il visera à battre le record de 8 médailles d'or en natation lors des Jeux olympiques de Paris 2024.",
         "Simone Biles": "Simone Biles est Née le 14 mars 1997, Simone Biles est une gymnaste américaine. Déjà quadruple championne olympique à Rio en 2016 et quintuple médaillée d'or à Tokyo en 2020, elle a annoncé son intention de faire son retour à la compétition en 2024, avec pour objectif les Jeux olympiques de Paris.",
         "LeBron James": "LeBron James, né le 30 décembre 1984 à Akron (Ohio), est un joueur de basket-ball américain évoluant au sein des Lakers de Los Angeles. Considéré comme l'un des meilleurs joueurs de tous les temps, il a remporté quatre titres de champion NBA, quatre titres de MVP des finales et deux médailles d'or olympiques avec l'équipe des États-Unis.",
   
         //argentine
+        
         "Paula Pareto":"Paula Pareto est Née le 17 janvier 1986, Paula Pareto est une judokate argentine. Déjà médaillée d'or aux Jeux olympiques de Rio en 2016, elle sera l'une des favorites à Paris en 2024. Pareto est également la première femme argentine à avoir remporté une médaille d'or aux Jeux olympiques.",
         "Santiago Lange":"Santiago Lange est Né le 20 septembre 1961, Santiago Lange est un skipper argentin. Déjà médaillé d'or aux Jeux olympiques de Rio en 2016, il sera l'un des favoris à Paris en 2024. Lange est également un survivant du cancer, ce qui fait de lui une source d'inspiration pour beaucoup de gens.",
         "Facundo Campazzo":"Facundo Campazzo est né le 23 mars 1991, Facundo Campazzo est un joueur de basket-ball argentin évoluant au poste de meneur. Après avoir évolué en Argentine, en Espagne et en NBA, il a récemment signé avec l'équipe française de l'ASVEL. Campazzo est un joueur talentueux et expérimenté qui a remporté plusieurs titres avec l'équipe nationale d'Argentine, notamment la médaille d'or aux Jeux olympiques de Tokyo en 2020.", 
-        // ici ya bcp travaille!!! YES my negro
+        
+        // Bolivie
+        
+        "Karen Torrez":"Karen Torrez née le 19 juin 1992, Karen Torrez est une nageuse bolivienne spécialiste des épreuves de sprint. Déjà médaillée de bronze aux Jeux olympiques de la jeunesse de 2010, elle a également participé aux Jeux olympiques de Londres en 2012 et de Rio en 2016. Torrez est l'une des athlètes les plus populaires de Bolivie et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Hugo Dellien":"Hugo Dellien né le 16 juin 1993, Hugo Dellien est un joueur de tennis bolivien. Actuel 138ème joueur mondial, il a atteint le deuxième tour de Roland-Garros en 2022. Dellien est le premier joueur bolivien à avoir atteint le deuxième tour d'un Grand Chelem. Il espère continuer à progresser et représenter son pays aux Jeux olympiques de Paris en 2024.",
+        "Jhonathan Cahuana":"Jhonathan Cahuana né le 10 février 2001, Jhonathan Cahuana est un athlète bolivien spécialiste du 50 km marche. Déjà médaillé d'or aux Jeux sud-américains de la jeunesse de 2018, il a également participé aux Jeux olympiques de Tokyo en 2020. Cahuana est un jeune athlète talentueux qui espère se qualifier pour les Jeux olympiques de Paris en 2024 et y réaliser une performance de choix.",
+        
+        //brésile
+        
+        "Neymar Jr":"Neymar Jr né le 5 février 1992, Neymar Jr. est un joueur de football brésilien évoluant au poste d'attaquant au Paris Saint-Germain et en équipe nationale du Brésil. Considéré comme l'un des meilleurs joueurs du monde, il a remporté la Copa América en 2019 et la médaille d'or olympique en 2016 avec l'équipe du Brésil. Neymar Jr. a également remporté la Ligue des champions avec le FC Barcelone en 2015.",
+        "Alison dos Santos":"Alison dos Santos né le 3 juin 2000, Alison dos Santos est un athlète brésilien spécialiste du 400 m haies. Déjà médaillé de bronze aux Jeux olympiques de Tokyo en 2020, il sera l'un des favoris à Paris en 2024. Dos Santos est également le recordman d'Amérique du Sud de la discipline.",
+        "Beatriz Haddad Maia":"Beatriz Haddad Maia née le 30 mai 1996, Beatriz Haddad Maia est une joueuse de tennis brésilienne. Actuelle 15ème joueuse mondiale, elle a atteint les quarts de finale de Wimbledon en 2022. Haddad Maia est la première joueuse brésilienne à atteindre les quarts de finale d'un Grand Chelem depuis 1999.",
+        
+        //canada
+        
+        "Alphonso Davies":"Alphonso Davies né le 2 novembre 2000, Alphonso Davies est un joueur de football canadien évoluant au poste d'ailier au Bayern Munich et en équipe nationale du Canada. Considéré comme l'un des meilleurs jeunes joueurs du monde, il a remporté la Ligue des champions avec le Bayern Munich en 2020 et 2021. Davies a également remporté la Gold Cup avec l'équipe du Canada en 2021.",
+        "Penny Oleksiak":"Penny Oleksiak née le 13 juin 2000, Penny Oleksiak est une nageuse canadienne spécialiste des épreuves de sprint. Déjà médaillée de quatre médailles aux Jeux olympiques de Rio en 2016, dont une en or, elle sera l'une des favorites à Paris en 2024. Oleksiak est également la plus jeune athlète canadienne à avoir remporté une médaille d'or aux Jeux olympiques.",
+        "Andre De Grasse":"Andre De Grasse né le 10 novembre 1994, Andre De Grasse est un athlète canadien spécialiste des épreuves de sprint. Déjà médaillé de six médailles aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020, dont trois en bronze, il sera l'un des favoris à Paris en 2024. De Grasse est également le recordman du Canada du 100 m et du 200 m.",
+        
+        //colombie
+
+        "Egan Bernal":"Egan Bernal né le 13 janvier 1997, Egan Bernal est un coureur cycliste colombien. Vainqueur du Tour de France en 2019 et du Giro d'Italia en 2021, il est l'un des meilleurs cyclistes du monde. Bernal espère participer aux Jeux olympiques de Paris en 2024 et y remporter une médaille.",
+        "Mariana Pajón":"Mariana Pajón née le 10 octobre 1991, Mariana Pajón est une cycliste colombienne spécialiste du BMX. Déjà double médaillée d'or aux Jeux olympiques de Londres en 2012 et de Rio en 2016, elle sera l'une des favorites à Paris en 2024. Pajón est également la première femme colombienne à avoir remporté une médaille d'or aux Jeux olympiques.",
+        "Yuberjen Martínez":"Yuberjen Martínez né le 3 novembre 1991, Yuberjen Martínez est un boxeur colombien. Déjà médaillé d'or aux Jeux olympiques de Rio en 2016, il sera l'un des favoris à Paris en 2024. Martínez est également le champion du monde amateur de boxe dans la catégorie des poids mi-mouches.",
+        
+        //costa rica
+        
+        "Andrea Vargas":"Andrea Vargas née le 29 septembre 1996, Andrea Vargas est une nageuse costaricaine spécialiste des épreuves de dos. Déjà médaillée d'or aux Jeux panaméricains de 2019, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Vargas est l'une des athlètes les plus populaires du Costa Rica et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Kenneth Tencio":"Kenneth Tencio né le 1er janvier 1993, Kenneth Tencio est un surfeur costaricain. Déjà médaillé d'or aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Tencio est l'un des meilleurs surfeurs du monde et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Andrey Amador":"Andrey Amador né le 29 août 1986, Andrey Amador est un coureur cycliste costaricien. Déjà vainqueur du Tour du Costa Rica en 2012 et 2015, il a également participé aux Jeux olympiques de Londres en 2012, de Rio en 2016 et de Tokyo en 2020. Amador est l'un des cyclistes les plus expérimentés du Costa Rica et il espère participer aux Jeux olympiques de Paris en 2024.",
+
+        //cuba
+        
+        "Mijaín López":"Mijaín López né le 20 août 1982, Mijaín López est un lutteur cubain spécialiste de la lutte gréco-romaine. Déjà triple champion olympique dans la catégorie des plus de 130 kg (2008, 2012 et 2016), il sera l'un des favoris à Paris en 2024. López est également le champion du monde de la discipline en 2005, 2009, 2010 et 2014.",
+        "Yarisley Silva":"Yarisley Silva née le 1er juin 1987, Yarisley Silva est une perchiste cubaine. Déjà médaillée d'argent aux Jeux olympiques de Londres en 2012, elle sera l'une des favorites à Paris en 2024. Silva est également la championne du monde de la discipline en 2015.",
+        "Roniel Iglesias":"Roniel Iglesias né le 14 août 1988, Roniel Iglesias est un boxeur cubain. Déjà champion olympique dans la catégorie des poids welters en 2016, il sera l'un des favoris à Paris en 2024. Iglesias est également le champion du monde de la discipline en 2011 et 2014.",
+        
+        //equateur
+        
+        "Neisi Dajomes":"Neisi Dajomes née le 12 mai 1998, Neisi Dajomes est une haltérophile équatorienne. Déjà médaillée d'or aux Jeux olympiques de Tokyo en 2020 dans la catégorie des 76 kg, elle sera l'une des favorites à Paris en 2024. Dajomes est également la championne du monde de la discipline en 2018 et 2019.",
+        "Richard Carapute":"Richard Carapaz né le 29 mai 1993, Richard Carapaz est un coureur cycliste équatorien. Déjà vainqueur du Tour d'Italie en 2019, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Carapaz est l'un des meilleurs cyclistes du monde et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Alfredo Borrero":"Alfredo Borrero né le 29 janvier 1995, Alfredo Borrero est un athlète équatorien spécialiste du 200 m. Déjà médaillé d'argent aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Borrero est l'un des meilleurs sprinters d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+        //Guatemala
+
+        "Mirna Ortiz":"Mirna Ortiz née le 1er novembre 1986, Mirna Ortiz est une marcheuse guatémaltèque spécialiste du 20 km marche. Déjà médaillée de bronze aux Jeux olympiques de Londres en 2012, elle sera l'une des favorites à Paris en 2024. Ortiz est également la championne du monde de la discipline en 2013.",
+        "Juan Ignacio Maegli":"Juan Ignacio Maegli né le 13 août 1988, Juan Ignacio Maegli est un skipper guatémaltèque. Déjà médaillé de bronze aux Jeux olympiques de Rio en 2016 dans la catégorie Laser, il sera l'un des favoris à Paris en 2024. Maegli est également le champion du monde de la discipline en 2014.",
+        "Kevin Cordón":"Kevin Cordón né le 28 novembre 1996, Kevin Cordón est un joueur de badminton guatémaltèque. Déjà médaillé de bronze aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Cordón est l'un des meilleurs joueurs de badminton d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        
+        //Jamaique
+        
+        "Elaine Thompson-Herah":"Elaine Thompson-Herah née le 28 juin 1992, Elaine Thompson-Herah est une sprinteuse jamaïcaine. Déjà triple championne olympique en 2016 (100m, 200m et 4x100m) et 2020 (100m et 200m), elle sera l'une des favorites à Paris en 2024. Thompson-Herah est également la détentrice du record du monde du 100m (10,61).",
+        "Shelly-Ann Fraser-Pryce":"Shelly-Ann Fraser-Pryce née le 27 décembre 1986, Shelly-Ann Fraser-Pryce est une sprinteuse jamaïcaine. Déjà double championne olympique du 100m (2008 et 2012), elle sera l'une des favorites à Paris en 2024",
+        "Yohan Blake":"Yohan Blake né le 26 décembre 1989, Yohan Blake est un sprinteur jamaïcain. Déjà médaillé d'argent du 100m et du 200m aux Jeux olympiques de Londres en 2012, il sera l'un des favoris à Paris en 2024. Blake est également le champion du monde du 200m en 2011.",
+        
+        //Mexique
+        
+        "Alejandra Valencia":"Alejandra Valencia née le 17 octobre 1994, Alejandra Valencia est une archère mexicaine. Déjà médaillée de bronze aux Jeux olympiques de Tokyo en 2020 dans l'épreuve par équipe, elle sera l'une des favorites à Paris en 2024. Valencia est également la championne du monde de la discipline en 2019.",
+        "Aremi Fuentes":"Aremi Fuentes née le 15 mars 1994, Aremi Fuentes est une haltérophile mexicaine. Déjà médaillée de bronze aux Jeux olympiques de Tokyo en 2020 dans la catégorie des 76 kg, elle sera l'une des favorites à Paris en 2024. Fuentes est également la championne du monde de la discipline en 2018.",
+        "Daniel Corral":"Daniel Corral né le 25 janvier 2000, Daniel Corral est un athlète mexicain spécialiste du saut à la perche. Déjà médaillé d'argent aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Corral est l'un des meilleurs perchistes d'Amérique du Nord et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        
+        //Pérou
+        
+        "Kimberly García":"Kimberly García née le 19 novembre 1993, Kimberly García est une athlète péruvienne spécialiste de la marche athlétique. Déjà médaillée d'or aux Jeux panaméricains de 2019 dans l'épreuve du 20 km marche, elle sera l'une des favorites à Paris en 2024. García est également la championne du monde de la discipline en 2017 et 2019.",
+        "Gladys Tejeda":"Gladys Tejeda née le 30 septembre 1985, Gladys Tejeda est une athlète péruvienne spécialiste du marathon. Déjà médaillée de bronze aux Jeux panaméricains de 2019, elle a également participé aux Jeux olympiques de Londres en 2012, de Rio en 2016 et de Tokyo en 2020. Tejeda est l'une des meilleures marathoniennes d'Amérique du Sud et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Diego Elías":"Diego Elías né le 12 février 1996, Diego Elías est un joueur de squash péruvien. Déjà médaillé d'or aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Elías est l'un des meilleurs joueurs de squash du monde et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        
+        // Porto Rico
+        
+        "Jasmine Camacho-Quinn":"Jasmine Camacho-Quinn née le 21 août 1996, Jasmine Camacho-Quinn est une athlète de Porto Rico spécialiste du 100 m haies. Déjà championne olympique à Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Camacho-Quinn est également la détentrice du record du monde de la discipline (12,26).",
+        "Adrián Díaz":"Adrián Díaz né le 10 septembre 2000, Adrián Díaz est un pongiste de Porto Rico. Déjà médaillé de bronze aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Díaz est l'un des meilleurs pongistes d'Amérique latine et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "María Pérez":"María Pérez née le 29 octobre 1994, María Pérez est une haltérophile de Porto Rico. Déjà médaillée d'or aux Jeux panaméricains de 2019 dans la catégorie des 76 kg, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Pérez est l'une des meilleures haltérophiles d'Amérique latine et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",
+        "":"",  
   
   
   };
