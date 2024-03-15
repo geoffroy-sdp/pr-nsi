@@ -10,31 +10,31 @@ var athletes = {
     "Bosnie-Herzégovine": ["Larisa Ceric", "Nedžad Husic", "Tatjana Ðekanovic"],
     "Bulgarie": ["Ivet Goranova", "Stoyka Krasteva", "Simona Dyankova"],
     "Croatie": ["Matea Jelic", "Valent Sinkovic", "Donna Vekic"],
-    "Danemark": ["", ""],
-    "Espagne": ["", ""],
-    "Estonie": ["", ""],
-    "Finland": ["", ""],
-    "Géorgie": ["", ""],
+    "Danemark": ["Anne-Marie Rindom", "Viktor Axelsen","Julie Leth"],
+    "Espagne": ["Fátima Gálvez", "Alberto Ginés López","Sandra Sánchez"],
+    "Estonie": ["", "",""],
+    "Finland": ["", "",""],
+    "Géorgie": ["", "",""],
     "Grande-Bretagne": ["", ""],
-    "Grèce": ["", ""],
-    "Hongrie": ["", ""],
-    "Irlande": ["", ""],
-    "Italie": ["", ""],
-    "Lituanie": ["", ""],
-    "Moldavie": ["", ""],
-    "Norvège": ["", ""],
-    "Pays-Bas": ["", ""],
-    "Pologne": ["", ""],
-    "Portugale": ["", ""],
-    "Roumanie": ["", ""],
-    "Serbie": ["", ""],
-    "Slovaquie": ["", ""],
-    "Slovénie": ["", ""],
-    "Suède": ["", ""],
-    "Suisse": ["", ""],
-    "Tchéquie": ["", ""],
-    "Turquie": ["", ""],
-    "Ukraine": ["", ""],
+    "Grèce": ["", "",""],
+    "Hongrie": ["", "",""],
+    "Irlande": ["", "",""],
+    "Italie": ["", "",""],
+    "Lituanie": ["", "",""],
+    "Moldavie": ["", "",""],
+    "Norvège": ["", "",""],
+    "Pays-Bas": ["", "",""],
+    "Pologne": ["", "",""],
+    "Portugale": ["", "",""],
+    "Roumanie": ["", "",""],
+    "Serbie": ["", "",""],
+    "Slovaquie": ["", "",""],
+    "Slovénie": ["", "",""],
+    "Suède": ["", "",""],
+    "Suisse": ["", "",""],
+    "Tchéquie": ["", "",""],
+    "Turquie": ["", "",""],
+    "Ukraine": ["", "",""],
   
     // Océanie
     "Australie": ["Ariarne Titmus", "Ash Barty", "Patty Mills"],
@@ -75,10 +75,10 @@ var athletes = {
     "Mexique": ["Alejandra Valencia", "Aremi Fuentes", "Daniel Corral"],
     "Pérou": ["Kimberly García", "Gladys Tejeda", "Diego Elías"],
     "Porto Rico": ["Jasmine Camacho-Quinn", "María Pérez", "Adrián Díaz"],
-    "République dominicaine": ["", ""],
-    "Suriname": ["", ""],
-    "Trinité-et-Tobago": ["", ""],
-    "Uruguay": ["", ""],
+    "République dominicaine": ["Marileidy Paulino", "Félix Sánchez", "Prisilla Rivera"],
+    "Suriname": ["Jair Tjon En Fa", "Miguel van Assen", "Renzo Tjon A Joe"],
+    "Trinité-et-Tobago": ["Keshorn Walcott", "Dylan Carter", "Akeem Stewart"],
+    "Uruguay": ["Dolores Moreira", "Pablo Cuevas", "Déborah Rodríguez"],
   
     //Asie
     "Arabie Saoudite": ["", ""],
@@ -375,6 +375,32 @@ var athletes = {
         "Jasmine Camacho-Quinn":"Jasmine Camacho-Quinn née le 21 août 1996, Jasmine Camacho-Quinn est une athlète de Porto Rico spécialiste du 100 m haies. Déjà championne olympique à Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Camacho-Quinn est également la détentrice du record du monde de la discipline (12,26).",
         "Adrián Díaz":"Adrián Díaz né le 10 septembre 2000, Adrián Díaz est un pongiste de Porto Rico. Déjà médaillé de bronze aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Díaz est l'un des meilleurs pongistes d'Amérique latine et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
         "María Pérez":"María Pérez née le 29 octobre 1994, María Pérez est une haltérophile de Porto Rico. Déjà médaillée d'or aux Jeux panaméricains de 2019 dans la catégorie des 76 kg, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Pérez est l'une des meilleures haltérophiles d'Amérique latine et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+        //République dominicaine
+        
+        "Marileidy Paulino":"Marileidy Paulino née le 25 octobre 2001, Marileidy Paulino est une athlète dominicaine spécialiste du 400m. Déjà médaillée d'argent aux Jeux olympiques de Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Paulino est également la championne du monde du 400m en 2022.",
+        "Félix Sánchez":"Félix Sánchez né le 30 août 1977, Félix Sánchez est un athlète dominicain spécialiste du 400m haies. Déjà champion olympique à Athènes en 2004 et à Londres en 2012, il sera l'un des athlètes les plus expérimentés à Paris en 2024. Sánchez est également le champion du monde de la discipline en 2003 et 2007.",
+        "Prisilla Rivera":"Prisilla Rivera née le 29 décembre 1984, Prisilla Rivera est une joueuse de volley-ball dominicaine. Déjà médaillée de bronze aux Jeux olympiques de Londres en 2012, elle espère remporter une nouvelle médaille à Paris en 2024. Rivera est l'une des meilleures joueuses de volley-ball d'Amérique latine et elle est la capitaine de l'équipe nationale dominicaine.",
+        
+        //Suriname
+        
+        "Jair Tjon En Fa":" Jair Tjon En Fa né le 26 décembre 1988, Jair Tjon En Fa est un cycliste sur piste surinamien. Déjà qualifié pour les Jeux olympiques de Paris 2024 dans les épreuves du sprint et du keirin, il sera l'un des favoris en 2024. Tjon En Fa est également champion du monde du keirin en 2015 et 2018.",
+        "Miguel van Assen":"Miguel van Assen né le 26 avril 1997, Miguel van Assen est un athlète surinamien spécialiste du 100 m. Déjà médaillé d'argent aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Van Assen est l'un des meilleurs sprinters d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Renzo Tjon A Joe":"Renzo Tjon A Joe né le 10 décembre 2001, Renzo Tjon A Joe est un nageur surinamien spécialiste du 50 m nage libre. Déjà médaillé d'or aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Tjon A Joe est l'un des meilleurs nageurs d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        
+        //trinité-et-tobago
+        
+        "Keshorn Walcott":"Keshorn Walcott né le 2 avril 1993, Keshorn Walcott est un athlète de Trinité-et-Tobago spécialiste du lancer du javelot. Déjà champion olympique à Londres en 2012, il sera l'un des favoris à Paris en 2024. Walcott est également le champion du monde de la discipline en 2015.",
+        "Dylan Carter":"Dylan Carter né le 31 janvier 1996, Dylan Carter est un nageur de Trinité-et-Tobago. Déjà médaillé de bronze aux Jeux panaméricains de 2019 dans l'épreuve du 100 m papillon, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Carter est l'un des meilleurs nageurs d'Amérique centrale et des Caraïbes et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Akeem Stewart":"Akeem Stewart né le 22 août 1997, Akeem Stewart est un athlète de Trinité-et-Tobago spécialiste du sprint. Déjà médaillé d'argent aux Jeux panaméricains de 2019 dans l'épreuve du 400 m, il a également participé aux Jeux olympiques de Tokyo en 2020. Stewart est l'un des meilleurs sprinters d'Amérique du Nord et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        
+        //Uruguay
+        
+        "Dolores Moreira":"Dolores Moreira née le 19 mars 1995, Dolores Moreira est une athlète uruguayenne spécialiste du lancer du marteau. Déjà médaillée d'or aux Jeux panaméricains de 2019, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Moreira est l'une des meilleures lanceuses de marteau d'Amérique du Sud et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Pablo Cuevas":"Pablo Cuevas né le 1er janvier 1986, Pablo Cuevas est un joueur de tennis uruguayen. Déjà médaillé de bronze aux Jeux olympiques de Rio en 2016, il a également participé aux Jeux olympiques de Londres en 2012 et de Tokyo en 2020. Cuevas est l'un des meilleurs joueurs de tennis d'Amérique latine et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Déborah Rodríguez ":"Déborah Rodríguez née le 20 décembre 1992, Déborah Rodríguez est une athlète uruguayenne spécialiste du 800 m. Déjà médaillée d'argent aux Jeux panaméricains de 2019, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Rodríguez est l'une des meilleures coureuses de 800 m d'Amérique du Sud et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+        
         "":"",
         "":"",
         "":"",
