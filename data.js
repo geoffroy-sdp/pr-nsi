@@ -1,4 +1,3 @@
-https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini?hl=fr
 var athletes = {
     // Europe
     "France": ["Renaud Lavillenie", "Danis Civil","Teddy Riner"],
@@ -12,22 +11,22 @@ var athletes = {
     "Croatie": ["Matea Jelic", "Valent Sinkovic", "Donna Vekic"],
     "Danemark": ["Anne-Marie Rindom", "Viktor Axelsen","Julie Leth"],
     "Espagne": ["Fátima Gálvez", "Alberto Ginés López","Sandra Sánchez"],
-    "Estonie": ["", "",""],
-    "Finland": ["", "",""],
-    "Géorgie": ["", "",""],
-    "Grande-Bretagne": ["", ""],
-    "Grèce": ["", "",""],
-    "Hongrie": ["", "",""],
-    "Irlande": ["", "",""],
-    "Italie": ["", "",""],
-    "Lituanie": ["", "",""],
-    "Moldavie": ["", "",""],
-    "Norvège": ["", "",""],
-    "Pays-Bas": ["", "",""],
-    "Pologne": ["", "",""],
-    "Portugale": ["", "",""],
-    "Roumanie": ["", "",""],
-    "Serbie": ["", "",""],
+    "Estonie": ["Julia Beljajeva", "Erika Kirpu","Katrina Lehis"],
+    "Finland": ["Viivi Lehikoinen", "Satu Mäkelä-Nummela","Mira Potkonen"],
+    "Géorgie": ["Vazha Margvelashvili", "Lasha Bekauri","Lasha Talakhadze"],
+    "Grande-Bretagne": ["Hannah Mills", "Keely Hodgkinson", "Lauren Price"],
+    "Grèce": ["Elefthérios Petroúnias", "Rafaéla Spanoudáki-Chatziríga","Antigóni Drisbióti"],
+    "Hongrie": ["Dóra Bodonyi", "Sarolta Kovács","Áron Szilágyi"],
+    "Irlande": ["Paul O'Donovan", "Ciara Mageean","Sarah Lavin"],
+    "Italie": ["Valentina Rodini", "Eseosa Desalu","Alice Volpi"],
+    "Lituanie": ["Andrius Gudžius", "Airinė Palšytė","Laura Asadauskaitė-Zadneprovskienė"],
+    "Moldavie": ["Serghei Tarnovschi", "Dimitriana Surdu","Anastasia Nichita"],
+    "Norvège": ["Eivind Henriksen", "Vilde Johansen","Karoline Bjerkeli Grøvdal"],
+    "Pays-Bas": ["Ymkje Clevering", "Sharon van Rouwendaal","Anouk Vetter"],
+    "Pologne": ["Maria Andrejczyk", "Justyna Święty-Ersetic","Natalia Kaczmarek"],
+    "Portugale": ["Pedro Pichardo", "Patrícia Mamona","Fernando Pimenta"],
+    "Roumanie": ["Simona Radiș", "Ana Maria Popescu","Andrea Miklós"],
+    "Serbie": ["Jovana Prekovic", "Milica Mandić","Gojko Pijetlović"],
     "Slovaquie": ["", "",""],
     "Slovénie": ["", "",""],
     "Suède": ["", "",""],
@@ -42,23 +41,23 @@ var athletes = {
     "Nouvelle-Zélande": ["Rieko Ioane", "Beauden Barrett", "Ian Ferguson"],
   
     //Afrique
-    "Afrique du Sud": ["", ""],
-    "Algérie": ["", ""],
-    "Burkina Faso": ["", ""],
-    "Cameroun": ["", ""],
-    "Djibouti": ["", ""],
-    "Égypte": ["", ""],
-    "Érythrée": ["", ""],
-    "Éthiopie": ["", ""],
-    "Gambie": ["", ""],
-    "Kenya": ["", ""],
-    "Maroc": ["", ""],
-    "Nigeria": ["", ""],
-    "Ouganda": ["", ""],
-    "Sénégale": ["", ""],
-    "Tanzanie": ["", ""],
-    "Tunisie": ["", ""],
-    "Zimbabwe": ["", ""],
+    "Afrique du Sud": ["Tatjana Schoenmaker", "Wayde van Niekerk", "Bianca Buitendag"],
+    "Algérie": ["Yasser Mohamed Triki", "Amina Berrichi", "Ramy Boudrouma"],
+    "Burkina Faso": ["Benjamin Kaboré", "Marthe Koala", "Hugues Fabrice Zango"],
+    "Cameroun": ["Clarisse Agbegnenou", "Emmanuel Eseme", "Ajara Nchout Njoya"],
+    "Djibouti": ["Abdi Waiss Mouhyadin", "Zahra Ali", "Ayanleh Souleiman"],
+    "Égypte": ["Doaa Elghobashy", "Alaaeldin Abouelkassem", "Faten El-Ghorra"],
+    "Érythrée": ["Haile Gebrselassie", "Ghirmay Ghebreslassie", "Yemane Hailu"],
+    "Éthiopie": ["Letesenbet Gidey", "Selemon Barega", "Tirunesh Dibaba"],
+    "Gambie": ["Muhammed Jawara", "Ebrima Kamara", "Gina Bass"],
+    "Kenya": ["Brigid Kosgei", "Faith Kipyegon", "Eliud Kipchoge"],
+    "Maroc": ["Achraf Hakimi", "Sifan Hassan", "Soufiane El Bakkali"],
+    "Nigeria": ["Blessing Okagbare", "Ese Brume", "Tobi Amusan"],
+    "Ouganda": ["Jacob Kiplimo", "Peruth Chemutai", "Joshua Cheptegei"],
+    "Sénégale": ["Mamadou Ndiaye", "Fatoumata Ndiaye", "Adama Diatta"],
+    "Tanzanie": ["Suleiman Nyambui", "Agnes Jebet Tirop", "Alphonce Felix Simbu"],
+    "Tunisie": ["Habiba Ghribi", "Oussama Marnaoui", "Ines Boubakri"],
+    "Zimbabwe": ["Alexander Axon", "Kirsty Coventry", "Ngoni Makusha"],
     
     // Amérique
     "État-Unis": ["Michael Phelps", "Simone Biles", ""],
@@ -179,7 +178,7 @@ var athletes = {
 
         //Grèce
         "Elefthérios Petroúnias" : "Elefthérios Petroúnias, gymnaste grec né en 1990 à Athènes, est spécialiste des anneaux. Double champion olympique (2016 & 2020) et triple champion d'Europe (2015, 2017 & 2019), il est considéré comme l'un des meilleurs gymnastes de l'histoire de sa discipline.",
-        "Rafaéla Spanoudáki-Chatziríga" : "Née le 7 juin 1994 à Rhodes, Rafaéla Spanoudáki-Chatziríga est une sprinteuse grecque. Spécialiste du 200m, elle a remporté le titre de championne d'Europe en 2021 à Munich avec un temps de 22"82, établissant un nouveau record national. Elle a également participé aux Jeux olympiques de Tokyo en 2021, où elle a atteint les demi-finales.",
+        "Rafaéla Spanoudáki-Chatziríga" : "Née le 7 juin 1994 à Rhodes, Rafaéla Spanoudáki-Chatziríga est une sprinteuse grecque. Spécialiste du 200m, elle a remporté le titre de championne d'Europe en 2021 à Munich avec un temps de 22'82, établissant un nouveau record national. Elle a également participé aux Jeux olympiques de Tokyo en 2021, où elle a atteint les demi-finales.",
         "Antigóni Drisbióti" : "Antigóni Drisbióti, née le 21 mars 1984 à Kardítsa en Grèce, est une athlète spécialiste de la marche. Double championne d'Europe du 20 km et du 35 km à Munich en 2022, elle compte également à son palmarès une médaille de bronze aux Jeux méditerranéens de 2013 et une place de finaliste (8e) aux Jeux olympiques de Tokyo en 2021.",
 
         //Hongrie
@@ -230,10 +229,10 @@ var athletes = {
         //Roumanie
         "Simona Radiș" : "Née le 5 avril 1999, Simona Radiș est une rameuse roumaine spécialiste du deux de couple. Sacrée championne olympique en 2020 avec Ancuța Bodnar, elle a également remporté deux titres de championne d'Europe (2022) et deux médailles d'argent aux Championnats du monde (2019 et 2022).",
         "Ana Maria Popescu" : "Ana Maria Popescu est une escrimeuse roumaine née le 26 novembre 1984 à Bucarest. Spécialiste de l'épée, elle est l'une des escrimeuses les plus décorées de son pays avec un palmarès riche de deux médailles d'argent aux Jeux Olympiques (2008 et 2020), un titre de championne olympique par équipes en 2016, quatre titres de championne d'Europe par équipes et un titre de championne d'Europe individuel en 2013.",
-        "Andrea Miklós" : "Née le 17 avril 1999 à Cluj-Napoca en Roumanie, Andrea Miklós est une athlète spécialisée dans le 400 mètres. Championne d'Europe junior du 400 mètres en 2017, elle a également remporté la médaille de bronze du relais 4 × 400 mètres aux Championnats du monde en salle 2016. Miklós a participé aux Jeux olympiques de 2016 et de 2020, atteignant les demi-finales du 400 mètres à chaque fois. Son record personnel est de 50"31, établi en 2021.",
+        "Andrea Miklós" : "Née le 17 avril 1999 à Cluj-Napoca en Roumanie, Andrea Miklós est une athlète spécialisée dans le 400 mètres. Championne d'Europe junior du 400 mètres en 2017, elle a également remporté la médaille de bronze du relais 4 × 400 mètres aux Championnats du monde en salle 2016. Miklós a participé aux Jeux olympiques de 2016 et de 2020, atteignant les demi-finales du 400 mètres à chaque fois. Son record personnel est de 50'31, établi en 2021.",
   
         //serbie
-        "Jovana Preković" : "Jovana Preković, née le 20 janvier 1996 à Aranđelovac en Serbie, est une karatéka serbe concourant dans la catégorie kumité -61 kg. Double championne du monde en 2018 et 2021, elle est également championne olympique en 2020, lors de la première apparition du karaté aux Jeux olympiques. Son palmarès exceptionnel fait d'elle l'une des karatékas les plus accomplies de sa génération.",
+        "Jovana Prekovic" : "Jovana Preković, née le 20 janvier 1996 à Aranđelovac en Serbie, est une karatéka serbe concourant dans la catégorie kumité -61 kg. Double championne du monde en 2018 et 2021, elle est également championne olympique en 2020, lors de la première apparition du karaté aux Jeux olympiques. Son palmarès exceptionnel fait d'elle l'une des karatékas les plus accomplies de sa génération.",
         "Milica Mandić" : "Milica Mandić, née le 6 décembre 1991 à Belgrade, est une taekwondoïste serbe. Double championne olympique (+67kg) à Londres 2012 et Tokyo 2020, elle est également championne du monde (+67kg) en 2017. Palmarès exceptionnel pour cette athlète d'exception.",
         "Gojko Pijetlović" : "Gojko Pijetlović, né le 7 août 1983 à Novi Sad, est un joueur de water-polo serbe évoluant au poste de gardien de but. Il est triple champion olympique (2012, 2016 et 2020), champion du monde (2009 et 2015) et champion d'Europe (2014 et 2016). Considéré comme l'un des meilleurs gardiens de but de l'histoire, il a remporté de nombreux autres titres et distinctions individuelles au cours de sa carrière.",
   
@@ -267,8 +266,101 @@ var athletes = {
         "" : "",
         "" : "",
 
+        //
+        "" : "",
+        "" : "",
+        "" : "",
 
-    
+
+              //afrique
+        
+
+        //afrique du sud
+        "Tatjana Schoenmaker":"Tatjana Schoenmakernée le 9 juillet 1997 est une nageuse sud-africaine spécialiste de la brasse. Déjà médaillée d'or du 200 m brasse aux Jeux olympiques de Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Schoenmaker est également la détentrice du record du monde du 200 m brasse (2:18.95).",
+        "Wayde van Niekerk":"Wayde van Niekerk né le 15 juillet 1992 est un athlète sud-africain spécialiste du 400 m. Déjà champion olympique du 400 m et du 4x400 m aux Jeux olympiques de Rio en 2016, il sera l'un des favoris à Paris en 2024. Van Niekerk est également le détenteur du record du monde du 400 m (43,03).",
+        "Bianca Buitendag":"Bianca Buitendag née le 5 octobre 1994 est une surfeuse sud-africaine. Déjà médaillée d'argent aux Jeux olympiques de Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Buitendag est également la championne du monde de la discipline en 2019.",
+
+         //algérie
+         "Yasser Mohamed Triki" : "Yasser Mohamed Triki né le 1er août 1998 est un athlète algérien spécialiste du triple saut. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un saut de 17m18. Triki est l'un des meilleurs triple sauteurs d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         "Amina Berrichi" : "Amina Berrichi née le 1er janvier 2004 est une véliplanchiste algérienne. Championne d'Afrique en 2022 dans la catégorie RS:X, elle s'est qualifiée pour les JO 2024 en terminant 10ème au championnat du monde 2023. Berrichi est l'une des meilleures véliplanchistes d'Afrique et elle espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+         "Ramy Boudrouma" : "Ramy Boudrouma né le 1er janvier 2000 est un véliplanchiste algérien. Champion d'Afrique en 2022 dans la catégorie IQFoil, il s'est qualifié pour les JO 2024 en terminant 9ème au championnat du monde 2023. Boudrouma est l'un des meilleurs véliplanchistes d'Afrique et il espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+
+          //Burkina Faso
+        "Hugues Fabrice Zango" : "Hugues Fabrice Zango né le 25 juin 1993, Hugues Fabrice Zango est un athlète burkinabé spécialiste du triple saut. Déjà médaillé de bronze aux championnats du monde 2019 et champion d'Afrique en 2018 et 2022, il s'est qualifié pour les JO 2024 en réalisant un saut de 17m37. Zango est l'un des meilleurs triple sauteurs du monde et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Marthe Koala" : "Marthe Koala née le 24 novembre 2000 est une athlète burkinabé spécialiste du 100 m haies. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 13,25. Koala est l'une des meilleures coureuses de 100 m haies d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Benjamin Kaboré" : "Benjamin Kaboré né le 1er janvier 2002 est un nageur burkinabé spécialiste du 50 m nage libre. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 22,67. Kaboré est l'un des meilleurs nageurs d'Afrique et il espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+
+         //Cameroun
+         "Ajara Nchout Njoya" : "Ajara Nchout Njoya née le 12 janvier 1993 est une athlète camerounaise spécialiste du triple saut. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2018 et 2022, elle s'est qualifiée pour les JO 2024 en réalisant un saut de 14m17. Nchout Njoya est l'une des meilleures triple sauteuses d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.         ",
+         "Emmanuel Eseme" : "Emmanuel Eseme né le 1er janvier 1996 est un lutteur camerounais spécialiste de la lutte libre dans la catégorie des 74 kg. Déjà médaillé de bronze aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en terminant 5ème au championnat du monde 2023. Eseme est l'un des meilleurs lutteurs d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         "Clarisse Agbegnenou" : "Clarisse Agbegnenou née le 25 octobre 1992 est une judokate camerounaise naturalisée française. Déjà championne olympique en 2016 et 2020, elle est également quintuple championne du monde et quintuple championne d'Europe. Agbegnenou est l'une des meilleures judokates du monde et elle espère remporter une troisième médaille d'or consécutive aux Jeux olympiques de Paris en 2024.",
+
+          //djibouti
+        "Ayanleh Souleiman" : "Ayanleh Souleiman né le 30 décembre 1992 est un athlète djiboutien spécialiste du 1500 m. Déjà médaillé de bronze aux championnats du monde 2013 et champion d'Afrique en 2012 et 2014, il s'est qualifié pour les JO 2024 en réalisant un temps de 3h, 35m et 28s. Souleiman est l'un des meilleurs coureurs de 1500 m d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Zahra Ali" : "Zahra Ali née le 23 janvier 1994 est une athlète djiboutienne spécialiste du marathon. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 2h28'40. Ali est l'une des meilleures marathoniennes d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Abdi Waiss Mouhyadin" : "Abdi Waiss Mouhyadin né le 1er janvier 2000 est un athlète djiboutien spécialiste du 3000 m steeple. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 8h, 17m et 36s. Mouhyadin est l'un des meilleurs coureurs de 3000 m steeple d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+         //Egypte
+         "Faten El-Ghorra" : "Faten El-Ghorra née le 1er janvier 2000 est une karatéka égyptienne spécialiste du kumite dans la catégorie des +61 kg. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2022, elle s'est qualifiée pour les JO 2024 en terminant 3ème au championnat du monde 2023. El-Ghorra est l'une des meilleures karatékas du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         "Alaaeldin Abouelkassem" : "Alaaeldin Abouelkassem né le 1er janvier 1990 est un haltérophile égyptien spécialiste de la catégorie des 81 kg. Déjà médaillé de bronze aux Jeux olympiques de Rio en 2016 et champion d'Afrique en 2018 et 2022, il s'est qualifié pour les JO 2024 en terminant 5ème au championnat du monde 2023. Abouelkassem est l'un des meilleurs haltérophiles d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         "Doaa Elghobashy" : "Doaa Elghobashy née le 14 août 1996 est une nageuse égyptienne spécialiste du papillon. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2018 et 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 58h 79m sur 100 m papillon. Elghobashy est l'une des meilleures nageuses d'Afrique et elle espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+
+         //Érythrée
+        "Yemane Hailu" : "Yemane Hailu né le 25 novembre 1991 est un athlète érythréen spécialiste du 3000 m steeple. Déjà médaillé de bronze aux championnats du monde 2019 et champion d'Afrique en 2016 et 2018, il s'est qualifié pour les JO 2024 en réalisant un temps de 8h, 12m et 32s. Hailu est l'un des meilleurs coureurs de 3000 m steeple d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Ghirmay Ghebreslassie" : "Ghirmay Ghebreslassie né le 15 novembre 1995 est un athlète érythréen spécialiste du marathon. Déjà médaillé de bronze aux Jeux olympiques de Rio en 2016, il s'est qualifié pour les JO 2024 en réalisant un temps de 2h06'56. Ghebreslassie est l'un des meilleurs marathoniens d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Haile Gebrselassie" : "Haile Gebrselassie né le 18 avril 1973 est un athlète érythréen retraité spécialiste du 10 000 m et du marathon. Déjà double champion olympique du 10 000 m (2000 et 2004) et quadruple champion du monde (1999, 2001, 2003 et 2005), il est considéré comme l'un des plus grands coureurs de fond de tous les temps. Gebrselassie a annoncé son intention de revenir à la compétition en 2024 pour participer aux JO de Paris, à l'âge de 51 ans.",
+
+         //Éthiopie
+         "Letesenbet Gidey" : "Letesenbet Gidey née le 23 novembre 1998 est une athlète éthiopienne spécialiste du 10 000 m. Déjà championne du monde du 10 000 m en 2019 et 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 29h, 01m et 03s. Gidey est l'une des meilleures coureuses de 10 000 m du monde et elle espère remporter une médaille d'or aux Jeux olympiques de Paris en 2024.",
+         "Selemon Barega" : "Selemon Barega né le 20 janvier 2001 est un athlète éthiopien spécialiste du 10 000 m. Déjà champion olympique du 10 000 m en 2020, il s'est qualifié pour les JO 2024 en réalisant un temps de 27h, 28m et 98s. Barega est l'un des meilleurs coureurs de 10 000 m du monde et il espère remporter une deuxième médaille d'or consécutive aux Jeux olympiques de Paris en 2024.         ",
+         "Tirunesh Dibaba" : "Tirunesh Dibaba née le 1er juin 1985 est une athlète éthiopienne spécialiste du 10 000 m et du marathon. Déjà triple championne olympique (5 000 m en 2008 et 10 000 m en 2008 et 2012), elle s'est qualifiée pour les JO 2024 en réalisant un temps de 2h18'02 au marathon. Dibaba est l'une des meilleures marathoniennes du monde et elle espère remporter une quatrième médaille olympique aux Jeux olympiques de Paris en 2024.",
+
+         //Gambie
+        "Gina Bass" : "Gina Bass née le 4 mai 1995 est une athlète gambienne spécialiste du 800 m. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 1h 59m et 42s. Bass est l'une des meilleures coureuses de 800 m d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Ebrima Kamara" : "Ebrima Kamara né le 1er janvier 2000 est un athlète gambien spécialiste du 100 m. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 10m et 10s. Kamara est l'un des meilleurs sprinters d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Muhammed Jawara" : "Muhammed Jawara né le 1er janvier 1998 est un haltérophile gambien spécialiste de la catégorie des 73 kg. Déjà médaillé de bronze aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en terminant 9ème au championnat du monde 2023. Jawara est l'un des meilleurs haltérophiles d'Afrique et il espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+
+         //Kenya
+         "Eliud Kipchoge" : "Eliud Kipchoge né le 5 novembre 1984 est un athlète kenyan spécialiste du marathon. Déjà champion olympique en 2016 et 2020, il est également détenteur du record du monde du marathon (2h01'39). Kipchoge est l'un des meilleurs marathoniens de tous les temps et il espère remporter une troisième médaille d'or consécutive aux Jeux olympiques de Paris en 2024.",
+         "Faith Kipyegon" : "Faith Kipyegon née le 10 janvier 1994 est une athlète kenyane spécialiste du 1500 m. Déjà championne olympique en 2016 et 2020, elle est également championne du monde en 2017 et 2019. Kipyegon est l'une des meilleures coureuses de 1500 m de tous les temps et elle espère remporter une troisième médaille d'or consécutive aux Jeux olympiques de Paris en 2024.",
+         "Brigid Kosgei" : "Brigid Kosgei née le 20 février 1994 est une athlète kenyane spécialiste du marathon. Déjà championne du monde en 2019 et détentrice du record du monde du marathon féminin (2h14'04), elle espère remporter une médaille d'or aux Jeux olympiques de Paris en 2024.",
+
+        //Maroc
+        "Soufiane El Bakkali" : "Soufiane El Bakkali né le 7 mai 1996 est un athlète marocain spécialiste du 3000 m steeple. Déjà champion olympique en 2020, il est également champion du monde en 2023. El Bakkali est l'un des meilleurs coureurs de 3000 m steeple du monde et il espère remporter une deuxième médaille d'or consécutive aux Jeux olympiques de Paris en 2024.",
+        "Sifan Hassan" : "Sifan Hassan née le 1er janvier 1993 est une athlète d'origine éthiopienne naturalisée néerlandaise spécialiste des courses de fond. Déjà médaillée d'or du 5000 m et du 10 000 m aux Jeux olympiques de Tokyo en 2020, elle a également remporté 3 médailles aux championnats du monde 2019. Hassan est l'une des meilleures coureuses de fond du monde et elle espère remporter de nouvelles médailles aux Jeux olympiques de Paris en 2024.",
+        "Achraf Hakimi" : "é le 4 novembre 1998 est un footballeur marocain. Déjà champion d'Italie avec l'Inter Milan en 2021 et champion de France avec le Paris Saint-Germain en 2022, il est l'un des meilleurs latéraux droits du monde. Hakimi espère mener le Maroc à la victoire aux Jeux olympiques de Paris en 2024.",
+
+        //Nigeria
+        "Tobi Amusan" : "Tobi Amusan née le 23 avril 1997 est une athlète nigériane spécialiste du 100 m haies. Déjà médaillée d'or aux championnats du monde 2023 et championne d'Afrique en 2018 et 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 12m et 12s. Amusan est l'une des meilleures coureuses de 100 m haies du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Ese Brume" : "Ese Brume née le 13 octobre 1996 est une athlète nigériane spécialiste du saut en longueur. Déjà médaillée de bronze aux championnats du monde 2019 et championne d'Afrique en 2018 et 2022, elle s'est qualifiée pour les JO 2024 en réalisant un saut de 7m17. Brume est l'une des meilleures sauteuses en longueur du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Blessing Okagbare" : "Blessing Okagbare née le 9 octobre 1988 est une athlète nigériane spécialiste du saut en longueur et du 100 m. Déjà médaillée d'argent aux championnats du monde 2013 et championne d'Afrique en 2010, 2012, 2014 et 2018, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 11m et 5s. Okagbare est l'une des athlètes les plus polyvalentes du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+        //Ouganda
+        "Joshua Cheptegei" : "Joshua Cheptegei né le 12 décembre 1996 est un athlète ougandais spécialiste du 5000 m et du 10 000 m. Déjà champion du monde du 10 000 m en 2019 et 2023, et champion olympique du 5 000 m et du 10 000 m en 2020, il sera l'un des favoris à Paris en 2024. Cheptegei est l'un des meilleurs coureurs de fond du monde et il espère remporter deux nouvelles médailles d'or aux Jeux olympiques de Paris en 2024.",
+        "Peruth Chemutai" : "Peruth Chemutai née le 10 juillet 1999 est une athlète ougandaise spécialiste du 3000 m steeple. Déjà championne du monde du 3000 m steeple en 2019 et championne olympique de la discipline en 2020, elle sera l'une des favorites à Paris en 2024. Chemutai est l'une des meilleures steepleuses du monde et elle espère remporter une nouvelle médaille d'or aux Jeux olympiques de Paris en 2024.",
+        "Jacob Kiplimo" : "Jacob Kiplimo né le 14 novembre 2000 est un athlète ougandais spécialiste du 5000 m et du 10 000 m. Déjà médaillé de bronze du 10 000 m aux championnats du monde 2019 et champion du monde du 5 000 m en 2023, il sera l'un des favoris à Paris en 2024. Kiplimo est l'un des meilleurs coureurs de fond du monde et il espère remporter une médaille d'or aux Jeux olympiques de Paris en 2024.",
+
+        //Sénégale
+        "Adama Diatta" : "Adama Diatta né le 28 mai 1995 est un athlète sénégalais spécialiste du 400 m haies. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 48m et 37s. Diatta est l'un des meilleurs coureurs de 400 m haies d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Fatoumata Ndiaye" : "Fatoumata Ndiaye née le 17 juillet 1990 est une athlète sénégalaise spécialiste du 100 m haies. Déjà médaillée d'or aux Jeux africains de 2019 et championne d'Afrique en 2022, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 12m et 87s. Ndiaye est l'une des meilleures coureuses de 100 m haies d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Mamadou Ndiaye" : "Né le 20 octobre 1996 est un basketteur sénégalais évoluant au poste de pivot. Déjà médaillé d'argent à la Coupe d'Afrique des nations masculine de basket-ball en 2021, il a également participé aux Jeux olympiques de Tokyo en 2020. Ndiaye est l'un des meilleurs joueurs de basket-ball d'Afrique et il espère faire une belle performance aux Jeux olympiques de Paris en 2024.        ",
+         
+        //Tanzanie
+        "Alphonce Felix Simbu" : "Alphonce Felix Simbu né le 8 janvier 1990 est un athlète tanzanien spécialiste du marathon. Déjà médaillé d'or aux Jeux du Commonwealth de 2018 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 2h09'21. Simbu est l'un des meilleurs marathoniens d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Agnes Jebet Tirop" : "Agnes Jebet Tirop née le 23 octobre 1995 est une athlète tanzanienne spécialiste du 10 000 m. Déjà médaillée de bronze aux championnats du monde 2015 et 2017, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 30h 45m et 21s. Tirop est l'une des meilleures coureuses de 10 000 m du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Suleiman Nyambui" : "Suleiman Nyambui né le 15 décembre 1993 est un athlète tanzanien spécialiste du 5 000 m. Déjà médaillé d'argent aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 13h 08m et 04s. Nyambui est l'un des meilleurs coureurs de 5 000 m d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         
+        //tunisie
+        "Ines Boubakri" : "Ines Boubakri née le 18 août 1988 est une escrimeuse tunisienne spécialiste du sabre. Déjà médaillée de bronze aux Jeux olympiques de Rio en 2016, elle est également championne du monde en 2018 et championne d'Afrique en 2019 et 2022. Boubakri est l'une des meilleures sabreuses du monde et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Oussama Marnaoui" : "Oussama Marnaoui né le 31 décembre 1999 est un nageur tunisien spécialiste du 1500 m nage libre. Déjà médaillé d'or aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un temps de 14h 55m et 36s. Marnaoui est l'un des meilleurs nageurs d'Afrique et il espère faire une belle performance aux Jeux olympiques de Paris en 2024.",
+        "Habiba Ghribi" : "Habiba Ghribi née le 9 mars 1984 est une athlète tunisienne spécialiste du 3000 m steeple. Déjà championne du monde en 2015 et championne d'Afrique en 2012, 2014 et 2016, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 9h 28m et 71s. Ghribi est l'une des meilleures coureuses de 3000 m steeple d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+         
+        //Zimbabwe
+        "Ngoni Makusha" : "Ngoni Makusha né le 10 mars 1987 est un athlète zimbabwéen spécialiste du saut en longueur. Déjà médaillé d'argent aux Jeux olympiques de Londres en 2012, il s'est qualifié pour les JO 2024 en réalisant un saut de 8m24. Makusha est l'un des meilleurs sauteurs en longueur d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Kirsty Coventry" : "Kirsty Coventry née le 16 septembre 1983 est une nageuse zimbabwéenne spécialiste des épreuves individuelles en dos. Déjà médaillée d'or aux Jeux olympiques de Pékin en 2008 et d'argent aux Jeux olympiques de Londres en 2012, elle s'est qualifiée pour les JO 2024 en réalisant un temps de 2h 09m et 55s sur 200 m dos. Coventry est l'une des meilleures nageuses d'Afrique et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+        "Alexander Axon" : "Alexander Axon né le 24 août 1994 est un athlète zimbabwéen spécialiste du lancer du javelot. Déjà médaillé d'or aux Jeux africains de 2019 et champion d'Afrique en 2022, il s'est qualifié pour les JO 2024 en réalisant un lancer de 84m73. Axon est l'un des meilleurs lanceurs de javelot d'Afrique et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
+
+
               //océanie
   
   
