@@ -231,45 +231,41 @@ var athletes = {
         "Ana Maria Popescu" : "Ana Maria Popescu est une escrimeuse roumaine née le 26 novembre 1984 à Bucarest. Spécialiste de l'épée, elle est l'une des escrimeuses les plus décorées de son pays avec un palmarès riche de deux médailles d'argent aux Jeux Olympiques (2008 et 2020), un titre de championne olympique par équipes en 2016, quatre titres de championne d'Europe par équipes et un titre de championne d'Europe individuel en 2013.",
         "Andrea Miklós" : "Née le 17 avril 1999 à Cluj-Napoca en Roumanie, Andrea Miklós est une athlète spécialisée dans le 400 mètres. Championne d'Europe junior du 400 mètres en 2017, elle a également remporté la médaille de bronze du relais 4 × 400 mètres aux Championnats du monde en salle 2016. Miklós a participé aux Jeux olympiques de 2016 et de 2020, atteignant les demi-finales du 400 mètres à chaque fois. Son record personnel est de 50'31, établi en 2021.",
   
-        //serbie
+        //Serbie
         "Jovana Prekovic" : "Jovana Preković, née le 20 janvier 1996 à Aranđelovac en Serbie, est une karatéka serbe concourant dans la catégorie kumité -61 kg. Double championne du monde en 2018 et 2021, elle est également championne olympique en 2020, lors de la première apparition du karaté aux Jeux olympiques. Son palmarès exceptionnel fait d'elle l'une des karatékas les plus accomplies de sa génération.",
         "Milica Mandić" : "Milica Mandić, née le 6 décembre 1991 à Belgrade, est une taekwondoïste serbe. Double championne olympique (+67kg) à Londres 2012 et Tokyo 2020, elle est également championne du monde (+67kg) en 2017. Palmarès exceptionnel pour cette athlète d'exception.",
         "Gojko Pijetlović" : "Gojko Pijetlović, né le 7 août 1983 à Novi Sad, est un joueur de water-polo serbe évoluant au poste de gardien de but. Il est triple champion olympique (2012, 2016 et 2020), champion du monde (2009 et 2015) et champion d'Europe (2014 et 2016). Considéré comme l'un des meilleurs gardiens de but de l'histoire, il a remporté de nombreux autres titres et distinctions individuelles au cours de sa carrière.",
   
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Slovaquie
+        "Zuzana Rehák-Štefečeková" : "Zuzana Rehák-Štefečeková est une tireuse sportive slovaque née le 15 janvier 1984 à Nitra. Spécialiste du trap, elle est championne olympique en 2020 à Tokyo et vice-championne olympique en 2008 à Pékin et en 2012 à Londres. Elle est également championne du monde en 2010 et a remporté de nombreuses autres médailles internationales.",
+        "Jakub Grigar" : "Né le 27 avril 1997 à Liptovský Mikuláš, Jakub Grigar est un kayakiste slovaque spécialiste du slalom. Double champion du monde junior, il a remporté la médaille d'argent aux Jeux olympiques de Tokyo en 2021 et compte également deux médailles d'argent aux Championnats du monde en K1 par équipe.",
+        "Rory Sabbatini" : "Rory Sabbatini, né le 2 avril 1976 à Durban en Afrique du Sud, est un golfeur professionnel. Passé professionnel en 1998, il a remporté six titres sur le PGA Tour dont le HP Byron Nelson Championship en 2009 et The Honda Classic en 2011. Il a également décroché la médaille d'argent aux Jeux olympiques de Tokyo en 2020 sous les couleurs de la Slovaquie, pays dont il a acquis la nationalité en 2019.",
    
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Suède
+        "Sarah Sjöström" : "Sarah Sjöström, née le 17 août 1993, est une nageuse suédoise spécialiste des épreuves de papillon et de nage libre. Nageuse la plus décorée de l'histoire des Championnats du monde en bassin long avec 23 médailles individuelles, elle est également championne olympique du 100 m papillon en 2016 et détentrice de plusieurs records du monde",
+        "Armand Duplantis" : "Armand "Mondo" Duplantis, né en 1999, est un perchiste américano-suédois. Détenteur du record du monde en salle et en plein air avec 6m22 et 6m23, il est champion olympique (2021), champion du monde (2022 & 2023) et champion d'Europe (2018 & 2021). Son palmarès exceptionnel fait de lui l'un des meilleurs perchistes de l'histoire.",
+        "Daniel Ståhl" : "Daniel Ståhl,né le 27 août 1992, est un athlète suédois spécialiste du lancer de disque. Il est champion olympique en 2021, champion du monde en 2019 et 2023, et champion d'Europe en 2018 et 2022. Son record personnel est de 71,46 m, établi en 2023, ce qui le place au deuxième rang des performeurs mondiaux de tous les temps.",
  
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Suisse
+        "Mujinga Kambundji" : "Née à Berne en 1992, Mujinga Kambundji est une sprinteuse suisse spécialiste du 100m et 200m. Figure incontournable du sprint helvétique, elle cumule les titres et médailles depuis 2014, dont une médaille de bronze aux Championnats du Monde 2019 sur 200m et le titre de Championne du Monde en salle du 60m en 2022. Sa carrière exceptionnelle fait d'elle l'athlète suisse la plus rapide de l'histoire et une inspiration pour la nouvelle génération.",
+        "Max Heinzer" : "Max Heinzer est un escrimeur suisse né le 8 août 1987. Spécialiste de l'épée, il a remporté de nombreuses médailles internationales, dont l'or par équipes aux Championnats du monde 2018 et l'argent par équipes aux Jeux olympiques de 2020. Il a également été champion d'Europe à trois reprises (2013, 2015 et 2016) et a participé à trois éditions des Jeux olympiques (2012, 2016 et 2020).",
+        "Ralph Stöckli" : "Ralph Stöckli, né le 23 juillet 1976 à Uzwil, est un curleur suisse à la carrière riche en succès. Il a notamment remporté la médaille d'argent aux Championnats du monde 2003, l'or aux Championnats d'Europe 2006 et le bronze aux Jeux olympiques d'hiver de 2010. Après sa carrière sportive, il est devenu chef du sport de performance à Swiss Olympic et chef de mission de l'équipe suisse aux Jeux olympiques de 2016 à 2022.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Tchéquie
+        "Kateřina Siniaková" : "Kateřina Siniaková, née le 10 mai 1996, est une joueuse de tennis tchèque. Professionnelle depuis 2012, elle a atteint la 31ème place mondiale en simple et la 1ère place mondiale en double. Siniaková a remporté 7 titres WTA en simple et 17 en double, dont 2 titres du Grand Chelem en double à Wimbledon (2018) et Roland-Garros (2021).",
+        "Jiří Prskavec" : "Jiří Prskavec est un kayakiste tchèque né le 18 mai 1993 à Mělník. Spécialisé dans la catégorie K1, il est champion olympique en 2020 à Tokyo et triple champion du monde (2018, 2019 et 2022). Il a également remporté la médaille de bronze aux Jeux olympiques de 2016 à Rio de Janeiro et compte quatre titres de champion d'Europe à son palmarès.",
+        "Lukáš Krpálek" : "Lukáš Krpálek, judoka tchèque né en 1990, est double champion olympique (2016 et 2020) et double champion du monde (2014 et 2019) dans la catégorie des +100kg. Il compte également à son palmarès 3 titres de champion d'Europe (2013, 2014 et 2018) et plus de 43 médailles en Coupe du Monde. Un véritable palmarès de légende pour ce judoka d'exception.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Turquie
+        "Mete Gazoz" : "Né le 8 juin 1999 à Istanbul, Mete Gazoz est un archer turc spécialiste de l'arc classique. Il est le premier archer turc à remporter une médaille olympique, en décrochant l'or à Tokyo en 2020. Son palmarès est riche : champion olympique en 2020, champion du monde en 2023, médaillé d'argent aux Championnats d'Europe en salle 2019 et médaillé d'or aux Jeux méditerranéens de 2018 et 2022.",
+        "Busenaz Sürmeneli" : "Busenaz Sürmeneli, née le 26 mai 1998 à Bursa en Turquie, est une boxeuse amateure. Sacrée championne olympique dans la catégorie poids welters aux Jeux de Tokyo en 2021, elle est également double championne du monde (2019 et 2022) et championne d'Europe (2018) dans la même catégorie. Véritable étoile montante de la boxe féminine, elle compte à son palmarès 78 victoires en 80 combats.",
+        "Buse Çakıroğlu" : "Buse Naz Çakıroğlu, née le 26 mai 1996 à Trabzon, est une boxeuse turque. Championne d'Europe en 2019 et médaillée d'or aux Jeux méditerranéens de 2022, elle est également la première boxeuse turque à avoir remporté un titre olympique, en bronze, aux Jeux de Tokyo 2020. Son palmarès exceptionnel fait d'elle l'une des athlètes les plus brillantes de son pays.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
+        //Ukraine
+        "Oleksandr Khyzhniak" : "Oleksandr Khyzhniak, boxeur ukrainien né le 3 août 1995 à Poltava, est un champion accompli. Il a notamment remporté l'or aux Championnats du monde 2017, aux Championnats d'Europe 2017 et aux Jeux européens 2019, tous dans la catégorie des poids moyens. Son palmarès impressionnant comprend également une médaille de bronze aux Jeux olympiques de 2020 à Tokyo.",
+        "Mykhailo Romanchuk" : "Mykhailo Romanchuk, né le 7 août 1996 à Rivne en Ukraine, est un nageur spécialiste de la nage libre. Il compte à son palmarès deux médailles d'argent olympiques (800m et 1500m nage libre) remportées aux Jeux de Tokyo en 2020, ainsi que six titres de champion d'Europe (400m, 800m et 1500m nage libre) et deux titres de champion du monde (800m et 1500m nage libre).",
+        "Anzhelika Terliuga" : "Née le 27 mars 1992 à Odessa en Ukraine, Anzhelika Terliuga est une karatéka spécialiste du kumite (-55 kg). Triple championne d'Europe (2017, 2018, 2019) et vice-championne olympique aux Jeux de Tokyo 2020, elle est l'une des athlètes les plus titrées de sa discipline.",
 
-        //
-        "" : "",
-        "" : "",
-        "" : "",
 
 
               //afrique
@@ -492,36 +488,98 @@ var athletes = {
         "Pablo Cuevas":"Pablo Cuevas né le 1er janvier 1986, Pablo Cuevas est un joueur de tennis uruguayen. Déjà médaillé de bronze aux Jeux olympiques de Rio en 2016, il a également participé aux Jeux olympiques de Londres en 2012 et de Tokyo en 2020. Cuevas est l'un des meilleurs joueurs de tennis d'Amérique latine et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
         "Déborah Rodríguez ":"Déborah Rodríguez née le 20 décembre 1992, Déborah Rodríguez est une athlète uruguayenne spécialiste du 800 m. Déjà médaillée d'argent aux Jeux panaméricains de 2019, elle a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Rodríguez est l'une des meilleures coureuses de 800 m d'Amérique du Sud et elle espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
 
-        
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",
-        "":"",  
+
+
+        //Asie    
+
+        //Arabie saoudite
+        "" : "",
+        "" : "",
+        "" : "",
+
+        //Bahreïn 
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Chine
+        "Guan Chenchen" : "Guan Chenchen, née le 25 septembre 2004, est une gymnaste artistique chinoise. Championne olympique à la poutre en 2020, elle compte également à son palmarès un titre de championne du monde par équipes en 2022 et deux médailles d'argent aux Championnats d'Asie (2019 et 2022).",
+        "Li Wenwen" : "Li Wenwen est une haltérophile chinoise née le 5 mars 2000 à Anshan. Championne olympique en +87 kg à Tokyo en 2020, elle est également l'actuelle championne du monde et d'Asie. Son palmarès est impressionnant : elle détient les records du monde du snatch (148 kg), du clean & jerk (187 kg) et du total (335 kg).",
+        "Wang Yilyu" : "Wang Yilyu, né le 8 novembre 1994, est un joueur de badminton chinois. Spécialisé en double mixte avec Huang Dongping, il est champion olympique 2020 et triple champion du monde (2018, 2019 et 2021). Il compte également à son palmarès deux titres de champion d'Asie (2018 et 2019) et deux médailles d'argent aux Jeux asiatiques (2018 et 2022).",
+    
+        //Corée du Sud
+        "Lee Da-bin" : "Née le 7 décembre 1996, Lee Da-bin est une athlète sud-coréenne spécialiste du taekwondo. Championne du monde en 2019 et médaillée d'argent aux Jeux olympiques de Tokyo 2020 et aux Championnats du monde 2022, elle a également remporté deux titres aux Jeux asiatiques (2014 et 2018).",
+        "Yoon Ji-su" : "Née le 24 janvier 1993 à Busan, Yoon Ji-su est une escrimeuse sud-coréenne spécialiste du sabre. Sacrée championne d'Asie à deux reprises en individuel (2012 et 2019) et quatre fois par équipes (2012, 2013, 2015 et 2019), elle a également remporté la médaille de bronze par équipes aux Jeux olympiques de Tokyo en 2021.",
+        "Kim Je-deok" : "Kim Je-deok est un archer sud-coréen né le 12 avril 2004 à Séoul. Double champion olympique en 2020 à Tokyo, il a remporté l'or par équipe masculine et mixte. Il est également champion du monde par équipe masculine en 2021.",
+    
+        //Émirats arabes unis
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Hong Kong
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Inde
+        "Neeraj Chopra" : "Néeraj Chopra, athlète indien spécialiste du lancer du javelot, est né le 24 décembre 1997. Il est champion olympique (2021), champion du monde (2023), champion d'Asie (2017), champion du Commonwealth (2018) et vainqueur des Jeux asiatiques (2018). Il a remporté les cinq titres majeurs auxquels peut postuler un athlète d'Inde.",
+        "Saikhom Mirabai Chanu" : "Née en 1994 dans le Manipur en Inde, Saikhom Mirabai Chanu est une haltérophile de talent qui a marqué l'histoire de son pays. Sacrée championne du monde en 2017 et médaillée d'argent aux Jeux olympiques de Tokyo 2020 dans la catégorie des moins de 49 kg, elle est devenue une inspiration pour la nouvelle génération d'athlètes indiens.",
+        "Pusarla Venkata Sindhu" : "Née en 1995 à Hyderabad, Pusarla Venkata Sindhu est une joueuse de badminton indienne considérée comme l'une des meilleures au monde. Son palmarès est impressionnant avec une médaille d'argent aux Jeux olympiques de Rio en 2016, une médaille de bronze à Tokyo en 2020 et un titre de championne du monde en 2019. Elle a également remporté de nombreux autres titres sur le circuit BWF, faisant d'elle une véritable légende du badminton indien.",
+    
+        //Iran
+        "Javad Foroughi" : "Javad Foroughi, né le 11 septembre 1979 à Dehloran en Iran, est un tireur sportif. Champion olympique en 2020 à Tokyo, il devient à 41 ans le médaillé olympique iranien le plus âgé de l'histoire. Son palmarès inclut également une médaille de bronze aux Championnats d'Asie de tir en 2019.",
+        "Mohammad Reza Geraei" : "Mohammad Reza Geraei, né le 25 juillet 1996 à Chiraz, est un lutteur gréco-romain iranien. Il a remporté la médaille d'or aux Jeux olympiques de Tokyo 2020 dans la catégorie des 67 kg, ainsi que deux titres de champion du monde en 2021 et 2023. Il est également champion d'Asie en 2022. Son palmarès exceptionnel fait de lui l'un des meilleurs lutteurs gréco-romains de sa génération.",
+        "Sajjad Ganjzadeh" : "Sajjad Ganjzadeh, né le 4 janvier 1992 à Téhéran, est un karatéka iranien spécialiste du kumite (+84kg). Il est triple champion du monde par équipe (2014, 2016, 2018) et champion du monde individuel en 2016. Il a également remporté la médaille d'or aux Jeux olympiques de Tokyo 2020, devenant ainsi le premier champion olympique iranien de karaté.",
+    
+        //Japon
+        "Shohei Ōno" : "Né le 3 février 1992 à Yamaguchi, Shohei Ōno est un judoka japonais évoluant dans la catégorie des moins de 73 kg. Considéré comme l'un des meilleurs judokas de l'histoire, il possède un palmarès exceptionnel avec 3 titres de champion du monde (2015, 2017, 2019), 2 titres olympiques (2016, 2020) et 7 titres de champion du Grand Slam. Il est également invaincu en compétition internationale depuis 2015.",
+        "Yuto Horigome" : "Né à Tokyo en 1999, Yuto Horigome est un skateur professionnel japonais. Considéré comme l'un des meilleurs skateurs du monde, il a remporté de nombreuses compétitions prestigieuses dont la SLS World Championship en 2018 et 2021, et surtout la médaille d'or aux Jeux olympiques de Tokyo en 2020, devenant ainsi le premier champion olympique de l'histoire en skateboard.",
+        "Jun Mizutani" : "Jun Mizutani, né le 9 juin 1989, est un pongiste japonais retraité. Il est l'un des joueurs les plus décorés de l'histoire du tennis de table, avec deux médailles d'or olympiques (en double mixte en 2016 et 2020) et une médaille d'argent (en simple en 2016). Il a également remporté deux titres de champion du monde (en simple en 2015 et en double en 2017) et six titres de champion d'Asie. Mizutani est connu pour son style de jeu spectaculaire et offensif, et il est considéré comme l'un des meilleurs joueurs de tennis de table de tous les temps.",
+    
+        //Kazakhstan
+        "Yeldos Smetov" : "Né le 9 septembre 1992 au Kazakhstan, Yeldos Smetov est un judoka évoluant dans la catégorie des -60kg. Son palmarès est riche de plusieurs médailles dont l'argent aux Jeux Olympiques de 2016 à Rio, l'or aux Championnats du Monde 2015 et le bronze aux Championnats du Monde 2019 et 2022.",
+        "Zulfiya Chinshanlo" : "Née le 25 juillet 1993 à Almaty, Zulfiya Chinshanlo est une haltérophile kazakhe d'origine chinoise. Triple championne du monde et médaillée de bronze olympique en 2012 et 2020, elle a remporté l'or aux Jeux olympiques de la Jeunesse en 2010 et compte de nombreux autres titres à son palmarès.",
+        "Igor Son" : "Né le 16 novembre 1998 à Ushtobe au Kazakhstan, Igor Son est un haltérophile kazakh. Il a remporté la médaille de bronze aux Jeux olympiques d'été de 2020 dans la catégorie des moins de 61 kg. Son palmarès comprend également une médaille d'argent aux Championnats du monde d'haltérophilie de 2019 et une médaille d'or aux Championnats d'Asie d'haltérophilie de 2020.",
+    
+        //Liban
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Pakistan
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Philippines
+        "Hidilyn Diaz" : "Née le 20 février 1991 à Zamboanga, Hidilyn Diaz est une haltérophile philippine qui a marqué l'histoire de son pays en devenant la première athlète, homme ou femme confondu, à remporter une médaille d'or olympique. Son palmarès est impressionnant avec une médaille d'argent aux Jeux olympiques de Rio en 2016 et l'or à Tokyo en 2020, battant au passage deux records olympiques.",
+        "Carlo Paalam" : "Carlo Paalam, né le 16 juillet 1998, est un boxeur amateur philippin. Il a remporté la médaille d'argent aux Jeux olympiques de Tokyo 2020 dans la catégorie des poids mouches. Son palmarès comprend également une médaille de bronze aux Jeux asiatiques de 2018 et une médaille d'or aux Jeux d'Asie du Sud-Est de 2019.",
+        "Nesthy Petecio" : "Nesthy Petecio, née le 11 avril 1992, est une boxeuse philippine. Elle a remporté la médaille d'argent aux Jeux olympiques de Tokyo 2020 dans la catégorie des poids plumes, devenant ainsi la première femme philippine à remporter une médaille olympique en boxe. Parmi ses autres titres, elle compte une médaille d'or aux Championnats du monde 2019 et une médaille d'or aux Jeux d'Asie du Sud-Est 2019.",
+    
+        //Qatar
+        "Fares El-Bakh" : "Fares El-Bakh, né le 4 juin 1998 en Égypte, est un haltérophile qatarien. Champion olympique en 2020 et champion du monde en 2021, il est également médaillé d'argent aux Championnats du monde 2019 et 2022. Son palmarès compte aussi deux titres de champion d'Asie (2019 et 2020) et six titres de champion junior du monde.",
+        "Mutaz Essa Barshim" : "Mutaz Essa Barshim, né le 24 juin 1991 à Doha, est un athlète qatari spécialiste du saut en hauteur. Il est champion olympique en 2020 et triple champion du monde (2017, 2019 et 2022). Il a également remporté deux médailles d'argent aux Jeux olympiques (2012 et 2016) et une médaille de bronze aux championnats du monde en salle (2014). Son record personnel est de 2,43 m, réalisé en 2013, ce qui le place deuxième meilleur performeur de tous les temps derrière Javier Sotomayor.",
+        "Cherif Younousse" : "Né le 22 mai 1995 à Dakar, Cherif Younousse est un joueur de beach-volley qatarien. Il a notamment remporté la médaille d'or aux Jeux asiatiques de 2018 et la médaille de bronze aux Jeux olympiques de 2020 avec son coéquipier Ahmed Tijan. Younousse est considéré comme l'un des meilleurs joueurs de beach-volley du monde.",
+    
+        //Singapour
+        "" : "",
+        "" : "",
+        "" : "",
+    
+        //Taipei chinois
+        "Kuo Hsing-chun" : "Née en 1993 à Yilan, Taïwan, Kuo Hsing-chun est une haltérophile aux multiples talents. Déjà médaillée de bronze aux Jeux olympiques de Rio en 2016, elle a atteint le sommet en 2020 à Tokyo en remportant l'or dans la catégorie des 59 kg. Son palmarès impressionnant compte également cinq titres de championne du monde, deux titres de championne d'Universiade et un titre de championne d'Asie.",
+        "Lo Chia-ling" : "Lo Chia-ling est une taekwondoïste taïwanaise née le 8 octobre 2001. Médaillée de bronze aux Jeux olympiques de Tokyo 2020 en moins de 57 kg, elle a également remporté l'argent aux Championnats du monde 2022. Son palmarès compte aussi deux titres de championne du monde juniors (2016 et 2018).",
+        "Wang Chi-lin" : "Wang Chi-lin est un joueur de badminton taïwanais né le 18 janvier 1995 à Taipei. Spécialiste du double hommes, il est champion olympique en 2020 avec Lee Yang et a remporté plusieurs titres sur le BWF World Tour. Son palmarès inclut également une médaille de bronze aux Championnats du monde 2018 et aux Jeux asiatiques de 2018.",
+    
+        //Viêt Nam
+        "Quách Thị Lan" : "Née le 18 octobre 1995, Quách Thị Lan est une athlète vietnamienne spécialiste du 400m et du 400m haies. Son palmarès est impressionnant : elle a remporté deux médailles d'or aux Jeux asiatiques (2018 et 2019), deux médailles d'argent aux Championnats d'Asie (2017 et 2019) et plusieurs médailles aux Jeux d'Asie du Sud-Est. En 2019, elle a également participé aux Championnats du monde d'athlétisme.",
+        "Thạch Kim Tuấn" : "Né le 15 janvier 1994, Thạch Kim Tuấn est un haltérophile vietnamien.Il s'est illustré dès son jeune âge en remportant l'or aux Jeux olympiques de la jeunesse d'été de 2010. Sa carrière est ponctuée de succès avec des titres de champion du monde et d'Asie, ainsi que des médailles aux Jeux olympiques et aux Jeux d'Asie du Sud-Est.",
+        "Nguyễn Thị Ánh Viên" : "Née en 1996 à Cần Thơ, Nguyễn Thị Ánh Viên est une nageuse vietnamienne spécialiste du 4 nages. Elle est considérée comme l'une des meilleures athlètes de son pays, avec un palmarès impressionnant: 8 médailles d'or aux SEA Games 2015, 2 médailles d'argent aux Championnats d'Asie 2014 et une participation aux Jeux olympiques de 2016. En 2013 et 2014, elle a été élue Sportive vietnamienne de l'année.",
   
   
   };
+
+
+
+//nsm tout ces pays où ya pas les infos
