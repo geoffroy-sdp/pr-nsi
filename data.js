@@ -84,7 +84,7 @@ var athletes = {
     "Bahrein": ["Salwa Eid Naser", "Kalkidan Gezahegne","Birhane Dibaba"],
     "Chine": ["Guan Chenchen", "Li Wenwen","Wang Yilyu"],
     "Corée du Sud": ["Lee Da-bin", "Yoon Ji-su","Kim Je-deok"],
-    "Émirat arabes Unis": ["", "",""],
+    "Émirat arabes Unis": ["Ahmed Al-Mansoori", "Sheikha Maitha bint Mohammed bin Rashid Al Maktoum","Omar Juma Al-Abdulla"],
     "Inde": ["", "",""],
     "Iran": ["", "",""],
     "Israel": ["", "",""],
