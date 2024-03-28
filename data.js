@@ -80,10 +80,10 @@ var athletes = {
     "Uruguay": ["Dolores Moreira", "Pablo Cuevas", "Déborah Rodríguez"],
   
     //Asie
-    "Arabie Saoudite": ["", "",""],
-    "Bahrein": ["", "",""],
-    "Chine": ["", "",""],
-    "Corée du Sud": ["", "",""],
+    "Arabie Saoudite": ["Hussah Al-Zaidi", "Yasmin Al-Dabbagh","Tarek Hamdi"],
+    "Bahrein": ["Salwa Eid Naser", "Kalkidan Gezahegne","Birhane Dibaba"],
+    "Chine": ["Guan Chenchen", "Li Wenwen","Wang Yilyu"],
+    "Corée du Sud": ["Lee Da-bin", "Yoon Ji-su","Kim Je-deok"],
     "Émirat arabes Unis": ["", "",""],
     "Inde": ["", "",""],
     "Iran": ["", "",""],
