@@ -28,12 +28,12 @@ var athletes = {
     "Roumanie": ["Simona Radiș", "Ana Maria Popescu","Andrea Miklós"],
     "Serbie": ["Jovana Prekovic", "Milica Mandić","Gojko Pijetlović"],
     "Slovaquie": ["Zuzana Rehák-Štefečeková", "Jakub Grigar","Rory Sabbatini"],
-    "Slovénie": ["", "",""],
-    "Suède": ["", "",""],
-    "Suisse": ["", "",""],
-    "Tchéquie": ["", "",""],
-    "Turquie": ["", "",""],
-    "Ukraine": ["", "",""],
+    "Slovénie": ["Benjamin Savšek", "Primož Roglič","Janja Garnbret"],
+    "Suède": ["Sarah Sjöström", "Armand Duplantis","Daniel Ståhl"],
+    "Suisse": ["Mujinga Kambundji", "Max Heinzer","Ralph Stöckli"],
+    "Tchéquie": ["Kateřina Siniaková", "Jiří Prskavec","Lukáš Krpálek"],
+    "Turquie": ["Mete Gazoz", "Busenaz Sürmeneli","Buse Çakıroğlu"],
+    "Ukraine": ["Oleksandr Khyzhniak", "Mykhailo Romanchuk","Anzhelika Terliuga"],
   
     // Océanie
     "Australie": ["Ariarne Titmus", "Ash Barty", "Patty Mills"],
@@ -80,20 +80,20 @@ var athletes = {
     "Uruguay": ["Dolores Moreira", "Pablo Cuevas", "Déborah Rodríguez"],
   
     //Asie
-    "Arabie Saoudite": ["", ""],
-    "Bahrein": ["", ""],
-    "Chine": ["", ""],
-    "Corée du Sud": ["", ""],
-    "Émirat arabes Unis": ["", ""],
-    "Inde": ["", ""],
-    "Iran": ["", ""],
-    "Israel": ["", ""],
-    "Japon": ["", ""],
-    "Kazakhstan": ["", ""],
-    "Libam": ["", ""],
-    "Pakistan": ["", ""],
-    "Philipines": ["", ""],
-    "Qatar": ["", ""],
+    "Arabie Saoudite": ["", "",""],
+    "Bahrein": ["", "",""],
+    "Chine": ["", "",""],
+    "Corée du Sud": ["", "",""],
+    "Émirat arabes Unis": ["", "",""],
+    "Inde": ["", "",""],
+    "Iran": ["", "",""],
+    "Israel": ["", "",""],
+    "Japon": ["", "",""],
+    "Kazakhstan": ["", "",""],
+    "Libam": ["", "",""],
+    "Pakistan": ["", "",""],
+    "Philipines": ["", "",""],
+    "Qatar": ["", "",""],
     "Singapour": ["", "",""],
     "Viet Nam": ["", "", ""],
     "Taipei Chinois": ["", "", ""],
@@ -497,14 +497,14 @@ var athletes = {
         //Asie    
 
         //Arabie saoudite
-        "" : "",
-        "" : "",
-        "" : "",
+        "Hussah Al-Zaidi" : "Née en 2002, Hussah Al-Zaidi est une sprinteuse saoudienne. Détentrice du record national du 100m et du 200m, elle a remporté la médaille d'or du 100m aux Championnats d'Arabie d'athlétisme 2023. Son objectif est de devenir la première femme saoudienne à participer aux Jeux olympiques sur 100m.",
+        "Yasmin Al-Dabbagh" : "Née en 1999, Yasmin Al-Dabbagh est une tireuse sportive saoudienne. Spécialiste du pistolet à 10m et du pistolet à 25m, elle a remporté la médaille d'or du pistolet à 10m aux Jeux olympiques de la jeunesse 2018. Elle a également participé aux Jeux olympiques de Tokyo 2020 et vise une nouvelle participation en 2024.",
+        "Tarek Hamdi" : "Né en 1998, Tarek Hamdi est un judoka saoudien. Champion d'Arabie saoudite dans la catégorie des -73kg en 2022 et 2023, il a également remporté la médaille de bronze aux Jeux asiatiques de 2018. Son rêve est de devenir le premier judoka saoudien à remporter une médaille olympique.",
 
         //Bahreïn 
-        "" : "",
-        "" : "",
-        "" : "",
+        "Salwa Eid Naser" : " Spécialiste du 400m, elle est championne du monde en 2019 et détentrice du record d'Asie avec un temps de 48"14. Elle a également remporté la médaille d'argent aux Jeux olympiques de 2020.",
+        "Kalkidan Gezahegne" : "Coureuse de fond, elle a remporté le marathon de Londres en 2022 et a établi un nouveau record du monde en 2h18'58. Elle est également championne du monde du semi-marathon en 2021.",
+        "Birhane Dibaba" : "Spécialiste du 10 000m, elle est championne du monde en 2015 et a remporté la médaille de bronze aux Jeux olympiques de 2016. Elle est également détentrice du record d'Afrique avec un temps de 29'42"56.",
     
         //Chine
         "Guan Chenchen" : "Guan Chenchen, née le 25 septembre 2004, est une gymnaste artistique chinoise. Championne olympique à la poutre en 2020, elle compte également à son palmarès un titre de championne du monde par équipes en 2022 et deux médailles d'argent aux Championnats d'Asie (2019 et 2022).",
@@ -517,14 +517,14 @@ var athletes = {
         "Kim Je-deok" : "Kim Je-deok est un archer sud-coréen né le 12 avril 2004 à Séoul. Double champion olympique en 2020 à Tokyo, il a remporté l'or par équipe masculine et mixte. Il est également champion du monde par équipe masculine en 2021.",
     
         //Émirats arabes unis
-        "" : "",
-        "" : "",
-        "" : "",
+        "Ahmed Al-Mansoori" : "Né en 1987, Al-Mansoori est un tireur émirati spécialiste du skeet. Il a remporté la médaille d'or aux Jeux olympiques de Londres en 2012, devenant ainsi le premier athlète des Émirats arabes unis à remporter une médaille olympique. Il a également remporté deux médailles d'or aux Jeux asiatiques (2010 et 2014) et une médaille d'argent aux Championnats du monde (2015)",
+        "Sheikha Maitha bint Mohammed bin Rashid Al Maktoum" : "Née en 1980, Sheikha Maitha est une karatéka émiratie. Elle a remporté la médaille d'or aux Jeux mondiaux de 2009 et deux médailles d'or aux Championnats d'Asie (2007 et 2011). Elle est également la première femme arabe à remporter une médaille d'or aux Jeux mondiaux.",
+        " Omar Juma Al-Abdulla" : "Né en 1993, Al-Abdulla est un judoka émirati. Il a remporté la médaille de bronze aux Jeux asiatiques de 2018 et la médaille d'or aux Championnats d'Asie (2021). Il est également le premier judoka émirati à se qualifier pour les Jeux olympiques.",
     
         //Hong Kong
-        "" : "",
-        "" : "",
-        "" : "",
+        "Grace Lau" : "Née en 1996, Grace Lau est une karatéka hongkongaise spécialiste du kata. Elle a remporté la médaille de bronze aux Jeux olympiques d'été de 2020 à Tokyo, devenant ainsi la première femme de Hong Kong à remporter une médaille olympique en karaté. Elle est également championne d'Asie en titre et a remporté plusieurs médailles aux championnats du monde.",
+        "Lee Wai-sze" : "Née en 1987, Lee Wai-sze est une cycliste sur piste hongkongaise. Elle est spécialiste de la vitesse individuelle et a remporté la médaille de bronze aux Jeux olympiques d'été de 2020 à Tokyo. Elle est également championne du monde en titre et a remporté plusieurs médailles aux championnats du monde et d'Asie.",
+        "Doo Hoi Kem" : "Née en 2000, Doo Hoi Kem est une joueuse de tennis de table hongkongaise. Elle a remporté la médaille de bronze par équipes aux Jeux olympiques d'été de 2020 à Tokyo. Elle est également championne d'Asie en titre et a remporté plusieurs médailles aux championnats du monde et d'Asie.",
     
         //Inde
         "Neeraj Chopra" : "Néeraj Chopra, athlète indien spécialiste du lancer du javelot, est né le 24 décembre 1997. Il est champion olympique (2021), champion du monde (2023), champion d'Asie (2017), champion du Commonwealth (2018) et vainqueur des Jeux asiatiques (2018). Il a remporté les cinq titres majeurs auxquels peut postuler un athlète d'Inde.",
@@ -547,14 +547,14 @@ var athletes = {
         "Igor Son" : "Né le 16 novembre 1998 à Ushtobe au Kazakhstan, Igor Son est un haltérophile kazakh. Il a remporté la médaille de bronze aux Jeux olympiques d'été de 2020 dans la catégorie des moins de 61 kg. Son palmarès comprend également une médaille d'argent aux Championnats du monde d'haltérophilie de 2019 et une médaille d'or aux Championnats d'Asie d'haltérophilie de 2020.",
     
         //Liban
-        "" : "",
-        "" : "",
-        "" : "",
+        "Ray Bassil" : "Née en 1998, Ray Bassil est une tireuse sportive libanaise spécialiste de la carabine à 10 mètres. Déjà présente aux Jeux olympiques de Rio en 2016, elle a remporté plusieurs médailles d'or aux championnats arabes et a établi le record du Liban en 2019. Elle espère représenter son pays aux JO de Paris 2024 et vise une place en finale.",
+        "Elias Nassif" : "Né en 2000, Elias Nassif est un judoka libanais évoluant dans la catégorie des moins de 81kg. Champion du Liban à plusieurs reprises, il a également remporté la médaille d'or aux Jeux panarabes de 2021. Déterminé à participer aux JO de Paris 2024, il s'entraîne intensivement pour réaliser son rêve olympique.",
+        "Nour Hadid " : "Née en 1998, Nour Hadid est un athlète libanais spécialiste du 100m haies. Détenteur du record national du Liban, il a également remporté plusieurs médailles d'or aux championnats arabes et a participé aux Championnats du monde d'athlétisme en 2023. Motivé par l'ambition de représenter son pays aux JO de Paris 2024, il vise une qualification pour les demi-finales.",
     
         //Pakistan
-        "" : "",
-        "" : "",
-        "" : "",
+        "Arshad Nadeem" : "Né en 1997, Arshad Nadeem est un lanceur de javelot pakistanais. Il a remporté la médaille d'or aux Jeux d'Asie du Sud de 2019 et aux Jeux du Commonwealth de 2022, avec un record personnel de 86,38m, le record national pakistanais et le 10ème meilleur lancer de l'histoire. Il vise une place en finale olympique à Paris 2024.",
+        "Nooh Dastgir Butt" : "Né en 2003, Nooh Dastgir Butt est un tireur pakistanais. Il a remporté la médaille d'or aux Jeux olympiques de la jeunesse de 2018 et a établi un nouveau record du monde junior dans l'épreuve du pistolet à air comprimé 10m. Il est considéré comme l'un des grands espoirs du tir pakistanais et vise une médaille olympique à Paris 2024.",
+        "Bismah Maroof" : "Née en 1989, Bismah Maroof est une joueuse de cricket pakistanaise. Elle est la capitaine de l'équipe nationale féminine du Pakistan et a été la première femme pakistanaise à marquer 1000 points dans les T20I. Elle a également remporté la médaille d'argent aux Jeux asiatiques de 2010. Bismah Maroof espère mener son équipe à une première médaille olympique en cricket à Paris 2024.",
     
         //Philippines
         "Hidilyn Diaz" : "Née le 20 février 1991 à Zamboanga, Hidilyn Diaz est une haltérophile philippine qui a marqué l'histoire de son pays en devenant la première athlète, homme ou femme confondu, à remporter une médaille d'or olympique. Son palmarès est impressionnant avec une médaille d'argent aux Jeux olympiques de Rio en 2016 et l'or à Tokyo en 2020, battant au passage deux records olympiques.",
@@ -567,9 +567,9 @@ var athletes = {
         "Cherif Younousse" : "Né le 22 mai 1995 à Dakar, Cherif Younousse est un joueur de beach-volley qatarien. Il a notamment remporté la médaille d'or aux Jeux asiatiques de 2018 et la médaille de bronze aux Jeux olympiques de 2020 avec son coéquipier Ahmed Tijan. Younousse est considéré comme l'un des meilleurs joueurs de beach-volley du monde.",
     
         //Singapour
-        "" : "",
-        "" : "",
-        "" : "",
+        "Yeo Jia Min" : "Née en 2000, elle est actuellement classée 14ème mondiale en simple dames. A remporté le bronze aux Championnats d'Asie 2022 et l'or aux Jeux d'Asie du Sud-Est 2021.",
+        "Joseph Schooling " : "Né en 1995, il est le champion olympique du 100m papillon en 2016. A également remporté l'argent aux Jeux du Commonwealth de 2018 et le bronze aux Championnats du monde 2019.",
+        "Feng Tianwei" : "Née en 1986, elle est l'une des pongistes les plus décorées de l'histoire de Singapour. A remporté 4 médailles olympiques dont l'argent en simple aux Jeux de 2008 et 2012",
     
         //Taipei chinois
         "Kuo Hsing-chun" : "Née en 1993 à Yilan, Taïwan, Kuo Hsing-chun est une haltérophile aux multiples talents. Déjà médaillée de bronze aux Jeux olympiques de Rio en 2016, elle a atteint le sommet en 2020 à Tokyo en remportant l'or dans la catégorie des 59 kg. Son palmarès impressionnant compte également cinq titres de championne du monde, deux titres de championne d'Universiade et un titre de championne d'Asie.",
