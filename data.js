@@ -402,7 +402,7 @@ var athletes = {
         "Hugo Dellien":"Hugo Dellien né le 16 juin 1993, Hugo Dellien est un joueur de tennis bolivien. Actuel 138ème joueur mondial, il a atteint le deuxième tour de Roland-Garros en 2022. Dellien est le premier joueur bolivien à avoir atteint le deuxième tour d'un Grand Chelem. Il espère continuer à progresser et représenter son pays aux Jeux olympiques de Paris en 2024.",
         "Jhonathan Cahuana":"Jhonathan Cahuana né le 10 février 2001, Jhonathan Cahuana est un athlète bolivien spécialiste du 50 km marche. Déjà médaillé d'or aux Jeux sud-américains de la jeunesse de 2018, il a également participé aux Jeux olympiques de Tokyo en 2020. Cahuana est un jeune athlète talentueux qui espère se qualifier pour les Jeux olympiques de Paris en 2024 et y réaliser une performance de choix.",
         
-        //brésile
+        //brésil
         
         "Neymar Jr":"Neymar Jr né le 5 février 1992, Neymar Jr. est un joueur de football brésilien évoluant au poste d'attaquant au Paris Saint-Germain et en équipe nationale du Brésil. Considéré comme l'un des meilleurs joueurs du monde, il a remporté la Copa América en 2019 et la médaille d'or olympique en 2016 avec l'équipe du Brésil. Neymar Jr. a également remporté la Ligue des champions avec le FC Barcelone en 2015.",
         "Alison dos Santos":"Alison dos Santos né le 3 juin 2000, Alison dos Santos est un athlète brésilien spécialiste du 400 m haies. Déjà médaillé de bronze aux Jeux olympiques de Tokyo en 2020, il sera l'un des favoris à Paris en 2024. Dos Santos est également le recordman d'Amérique du Sud de la discipline.",
@@ -432,7 +432,7 @@ var athletes = {
         "Yarisley Silva":"Yarisley Silva née le 1er juin 1987, Yarisley Silva est une perchiste cubaine. Déjà médaillée d'argent aux Jeux olympiques de Londres en 2012, elle sera l'une des favorites à Paris en 2024. Silva est également la championne du monde de la discipline en 2015.",
         "Roniel Iglesias":"Roniel Iglesias né le 14 août 1988, Roniel Iglesias est un boxeur cubain. Déjà champion olympique dans la catégorie des poids welters en 2016, il sera l'un des favoris à Paris en 2024. Iglesias est également le champion du monde de la discipline en 2011 et 2014.",
         
-        //equateur
+        //équateur
         
         "Neisi Dajomes":"Neisi Dajomes née le 12 mai 1998, Neisi Dajomes est une haltérophile équatorienne. Déjà médaillée d'or aux Jeux olympiques de Tokyo en 2020 dans la catégorie des 76 kg, elle sera l'une des favorites à Paris en 2024. Dajomes est également la championne du monde de la discipline en 2018 et 2019.",
         "Richard Carapute":"Richard Carapaz né le 29 mai 1993, Richard Carapaz est un coureur cycliste équatorien. Déjà vainqueur du Tour d'Italie en 2019, il a également participé aux Jeux olympiques de Rio en 2016 et de Tokyo en 2020. Carapaz est l'un des meilleurs cyclistes du monde et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
@@ -473,13 +473,20 @@ var athletes = {
         "Marileidy Paulino":"Marileidy Paulino née le 25 octobre 2001, Marileidy Paulino est une athlète dominicaine spécialiste du 400m. Déjà médaillée d'argent aux Jeux olympiques de Tokyo en 2020, elle sera l'une des favorites à Paris en 2024. Paulino est également la championne du monde du 400m en 2022.",
         "Félix Sánchez":"Félix Sánchez né le 30 août 1977, Félix Sánchez est un athlète dominicain spécialiste du 400m haies. Déjà champion olympique à Athènes en 2004 et à Londres en 2012, il sera l'un des athlètes les plus expérimentés à Paris en 2024. Sánchez est également le champion du monde de la discipline en 2003 et 2007.",
         "Prisilla Rivera":"Prisilla Rivera née le 29 décembre 1984, Prisilla Rivera est une joueuse de volley-ball dominicaine. Déjà médaillée de bronze aux Jeux olympiques de Londres en 2012, elle espère remporter une nouvelle médaille à Paris en 2024. Rivera est l'une des meilleures joueuses de volley-ball d'Amérique latine et elle est la capitaine de l'équipe nationale dominicaine.",
+       
+        //Tuvalu
         
+        "Donald Trump":"l'homme d'affaires devenu président (et qui aimerait bien le redevenir), se jette dans l'arène olympique avec son flair pour les spectacles grandioses. Avec ses tweets incendiaires et son ego surdimensionné, il compte bien faire des Jeux Olympiques une affaire personnelle. Son credo ? "America First" sur le podium, et peut-être même quelques négociations en coulisses pour changer les règles du jeu.",
+        "Vladimir Poutin":"le maître incontesté du judo politique, entre dans l'arène olympique avec la même grâce qu'un ours russe dans la toundra enneigée. Sa stratégie ? Domination totale. Avec son regard perçant et son charisme imperturbable, il entend bien transformer chaque compétition en un ballet de puissance et de souplesse, tout en veillant à ce que personne ne fasse de mouvement malvenu.",
+        "Kim Jung Un":"le "leader suprême" de la Corée du Nord, se lance dans les Jeux Olympiques avec une détermination farouche, prêt à éclipser tous les concurrents d'un coup de missile diplomatique. Armé de son sourire énigmatique et de sa coiffure à faire pâlir d'envie, il compte bien montrer que la puissance nucléaire peut aussi se traduire en médailles d'or.",
+
         //Suriname
         
         "Jair Tjon En Fa":" Jair Tjon En Fa né le 26 décembre 1988, Jair Tjon En Fa est un cycliste sur piste surinamien. Déjà qualifié pour les Jeux olympiques de Paris 2024 dans les épreuves du sprint et du keirin, il sera l'un des favoris en 2024. Tjon En Fa est également champion du monde du keirin en 2015 et 2018.",
         "Miguel van Assen":"Miguel van Assen né le 26 avril 1997, Miguel van Assen est un athlète surinamien spécialiste du 100 m. Déjà médaillé d'argent aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Van Assen est l'un des meilleurs sprinters d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
         "Renzo Tjon A Joe":"Renzo Tjon A Joe né le 10 décembre 2001, Renzo Tjon A Joe est un nageur surinamien spécialiste du 50 m nage libre. Déjà médaillé d'or aux Jeux panaméricains de 2019, il a également participé aux Jeux olympiques de Tokyo en 2020. Tjon A Joe est l'un des meilleurs nageurs d'Amérique du Sud et il espère remporter une médaille aux Jeux olympiques de Paris en 2024.",
-        
+
+    
         //trinité-et-tobago
         
         "Keshorn Walcott":"Keshorn Walcott né le 2 avril 1993, Keshorn Walcott est un athlète de Trinité-et-Tobago spécialiste du lancer du javelot. Déjà champion olympique à Londres en 2012, il sera l'un des favoris à Paris en 2024. Walcott est également le champion du monde de la discipline en 2015.",
