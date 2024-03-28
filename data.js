@@ -27,7 +27,7 @@ var athletes = {
     "Portugale": ["Pedro Pichardo", "Patrícia Mamona","Fernando Pimenta"],
     "Roumanie": ["Simona Radiș", "Ana Maria Popescu","Andrea Miklós"],
     "Serbie": ["Jovana Prekovic", "Milica Mandić","Gojko Pijetlović"],
-    "Slovaquie": ["", "",""],
+    "Slovaquie": ["Zuzana Rehák-Štefečeková", "Jakub Grigar","Rory Sabbatini"],
     "Slovénie": ["", "",""],
     "Suède": ["", "",""],
     "Suisse": ["", "",""],
@@ -266,8 +266,12 @@ var athletes = {
         "Mykhailo Romanchuk" : "Mykhailo Romanchuk, né le 7 août 1996 à Rivne en Ukraine, est un nageur spécialiste de la nage libre. Il compte à son palmarès deux médailles d'argent olympiques (800m et 1500m nage libre) remportées aux Jeux de Tokyo en 2020, ainsi que six titres de champion d'Europe (400m, 800m et 1500m nage libre) et deux titres de champion du monde (800m et 1500m nage libre).",
         "Anzhelika Terliuga" : "Née le 27 mars 1992 à Odessa en Ukraine, Anzhelika Terliuga est une karatéka spécialiste du kumite (-55 kg). Triple championne d'Europe (2017, 2018, 2019) et vice-championne olympique aux Jeux de Tokyo 2020, elle est l'une des athlètes les plus titrées de sa discipline.",
 
+        //Slovénie
+        "Benjamin Savšek" : "Benjamin Savšek, né le 24 mars 1987 à Ljubljana en Slovénie, est un céiste pratiquant le slalom. Il est l'un des pagayeurs C1 les plus titrés de sa génération avec un palmarès impressionnant : champion olympique en 2020, double champion du monde (2017 et 2023) et quadruple champion d'Europe (2014, 2015, 2019 et 2022).",
+        "Primož Roglič" : "Né en 1989 en Slovénie, Primož Roglič est un coureur cycliste polyvalent. Il a d'abord excellé en saut à ski avant de se reconvertir avec succès sur la route. Son palmarès est impressionnant : 3 Tours d'Espagne (2019, 2020, 2021), 1 Tour d'Italie (2023), 1 titre de champion du monde du contre-la-montre (2020) et de nombreuses autres victoires d'étapes sur les Grands Tours. Roglič est considéré comme l'un des meilleurs cyclistes du monde.",
+        "Janja Garnbret" : "Janja Garnbret, née en 1999, est une grimpeuse slovène. Considérée comme la meilleure grimpeuse de l'histoire, elle a remporté 19 titres mondiaux en difficulté, bloc et combiné, ainsi que l'or olympique en combiné à Tokyo 2020. Parmi ses autres faits d'armes, elle est la première femme à avoir réalisé un 8c en escalade sportive et la seule à avoir remporté six manches de Coupe du monde de bloc en une saison.",
 
-
+    
               //afrique
         
 
