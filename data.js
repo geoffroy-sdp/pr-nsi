@@ -476,9 +476,9 @@ var athletes = {
        
         //Tuvalu
         
-        "Donald Trump":"l'homme d'affaires devenu président (et qui aimerait bien le redevenir), se jette dans l'arène olympique avec son flair pour les spectacles grandioses. Avec ses tweets incendiaires et son ego surdimensionné, il compte bien faire des Jeux Olympiques une affaire personnelle. Son credo ? "America First" sur le podium, et peut-être même quelques négociations en coulisses pour changer les règles du jeu.",
+        "Donald Trump":"l'homme d'affaires devenu président (et qui aimerait bien le redevenir), se jette dans l'arène olympique avec son flair pour les spectacles grandioses. Avec ses tweets incendiaires et son ego surdimensionné, il compte bien faire des Jeux Olympiques une affaire personnelle. Son credo ? 'America First' sur le podium, et peut-être même quelques négociations en coulisses pour changer les règles du jeu.",
         "Vladimir Poutin":"le maître incontesté du judo politique, entre dans l'arène olympique avec la même grâce qu'un ours russe dans la toundra enneigée. Sa stratégie ? Domination totale. Avec son regard perçant et son charisme imperturbable, il entend bien transformer chaque compétition en un ballet de puissance et de souplesse, tout en veillant à ce que personne ne fasse de mouvement malvenu.",
-        "Kim Jung Un":"le "leader suprême" de la Corée du Nord, se lance dans les Jeux Olympiques avec une détermination farouche, prêt à éclipser tous les concurrents d'un coup de missile diplomatique. Armé de son sourire énigmatique et de sa coiffure à faire pâlir d'envie, il compte bien montrer que la puissance nucléaire peut aussi se traduire en médailles d'or.",
+        "Kim Jung Un":"le 'leader suprême' de la Corée du Nord, se lance dans les Jeux Olympiques avec une détermination farouche, prêt à éclipser tous les concurrents d'un coup de missile diplomatique. Armé de son sourire énigmatique et de sa coiffure à faire pâlir d'envie, il compte bien montrer que la puissance nucléaire peut aussi se traduire en médailles d'or.",
 
         //Suriname
         
