@@ -243,7 +243,7 @@ var athletes = {
    
         //Suède
         "Sarah Sjöström" : "Sarah Sjöström, née le 17 août 1993, est une nageuse suédoise spécialiste des épreuves de papillon et de nage libre. Nageuse la plus décorée de l'histoire des Championnats du monde en bassin long avec 23 médailles individuelles, elle est également championne olympique du 100 m papillon en 2016 et détentrice de plusieurs records du monde",
-        "Armand Duplantis" : "Armand "Mondo" Duplantis, né en 1999, est un perchiste américano-suédois. Détenteur du record du monde en salle et en plein air avec 6m22 et 6m23, il est champion olympique (2021), champion du monde (2022 & 2023) et champion d'Europe (2018 & 2021). Son palmarès exceptionnel fait de lui l'un des meilleurs perchistes de l'histoire.",
+        "Armand Duplantis" : "Armand Mondo Duplantis, né en 1999, est un perchiste américano-suédois. Détenteur du record du monde en salle et en plein air avec 6m22 et 6m23, il est champion olympique (2021), champion du monde (2022 & 2023) et champion d'Europe (2018 & 2021). Son palmarès exceptionnel fait de lui l'un des meilleurs perchistes de l'histoire.",
         "Daniel Ståhl" : "Daniel Ståhl,né le 27 août 1992, est un athlète suédois spécialiste du lancer de disque. Il est champion olympique en 2021, champion du monde en 2019 et 2023, et champion d'Europe en 2018 et 2022. Son record personnel est de 71,46 m, établi en 2023, ce qui le place au deuxième rang des performeurs mondiaux de tous les temps.",
  
         //Suisse
