@@ -5,10 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link  rel="website icon" href="https://www.paris2024.org/favicon-192x192.png"/>
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+/>
 <link rel="stylesheet" href="style.css">
 <script src="recherche_pays.js"></script>
 <script src="data.js"></script>
-<title> Projet pour les JO</title></title>
+<title>JO projet</title>
 </head>
 <body>
   <!--base-logo-->
@@ -32,7 +36,6 @@
 
 </nav>
 <!-- Recherche de pays -->
-<h1>ATHLÈTES</h1>
 <main>
 <div class="wrap">
   <div class="search">
@@ -145,11 +148,18 @@
 </main>
 <!-- Pop-up-->
 <div id="athletes" class="athletes-list flicker-in-1"></div>
-<div></div>
+<div id="athletes_pays"></div>
+
+
 <div id="popup" class="popup">
-  <span id="popupClose" onclick="fermerPopup()">X</span>
-  <h2 id="popupTitle"></h2>
-  <p id="popupBio"></p>
-</div> 
+  <div class="popup-content">
+    <span id="popupClose" onclick="closepopup()">&times;</span>
+    <h2 id="popupTitle"></h2>
+    <p id="popupBio"></p>
+  </div>
+</div>
+
+<div id="overlay" class="overlay"></div>
+
 </body>
 </html>
