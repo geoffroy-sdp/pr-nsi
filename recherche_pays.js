@@ -23,7 +23,8 @@ function rechercherPays() {
     // Recherche par pays
     if (txtValue.toUpperCase().startsWith(filter) || li[i].dataset.continent.toUpperCase() === filter) {
       li[i].style.display = "";
-    } 
+    }
+      
     // Recherche par athlète
     else {
       var athletesOfCountry = athletes[txtValue];
@@ -88,10 +89,10 @@ if (athletes[pays]) {
   });
   athletesList += "</ul>";
 }
-document.getElementById("athletes").innerHTML = athletesList;
+document.getElementById("athletes_pays").innerHTML = athletesList;
 
 // bascule entré text atl
-var athletesElement = document.getElementById("athletes");
+var athletesElement = document.getElementById("athletes_pays");
 athletesElement.innerHTML = athletesList;
 athletesElement.classList.remove("tilt-in-fwd-tr");
 void athletesElement.offsetWidth;
@@ -104,18 +105,22 @@ athletesElement.classList.add("tilt-in-fwd-tr");
     var popupTitle = document.getElementById("popupTitle");
     var popupBio = document.getElementById("popupBio");
     var popup = document.getElementById("popup");
+    var overlay = document.getElementById("overlay");
   
     // définie toutes les bio de ces con
     popupTitle.textContent = athlete;
     popupBio.textContent = athletes[athlete];
   
+    overlay.style.display = "block";
     popup.style.display = "block";
-    popup.style.fontFamily = "";
   }
   
-  function fermerPopup() {
+
+  function closepopup() {
     document.getElementById("popup").style.display = "none";
-  }
+    document.getElementById("overlay").style.display = "none";
+  };
+
   //chargement logo
   function chargement() {
     document.querySelector('.container').classList.remove('animate');
